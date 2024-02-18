@@ -1,0 +1,1554 @@
+{
+  "VUPShionMod:HyperdimensionalLinksPower": {
+    "NAME": "Hyperdimensional Link",
+    "DESCRIPTIONS": [
+      "Whenever you end combat with #b10 or more #yHyperdimensional #yLink, a random card will be upgraded."
+    ]
+  },
+  "VUPShionMod:PursuitPower": {
+    "NAME": "Pursued",
+    "DESCRIPTIONS": [
+      "At the start of the target's turn,ALL #yPursuing #yFunnel deals #b",
+      " damage.",
+      "At the end of your turn,take damage form ALL #yPursuing #yFunnel ,deals #b"
+    ]
+  },
+  "VUPShionMod:InvestigationFinFunnelUpgradePower": {
+    "NAME": "Scouting Upgrade",
+    "DESCRIPTIONS": [
+      "After playing #b",
+      " #yFunnel cards, upgrade #yScouting #yFunnel by #b1.",
+      "Task Completed!"
+    ]
+  },
+  "VUPShionMod:GravityFinFunnelUpgradePower": {
+    "NAME": "Gravity Upgrade",
+    "DESCRIPTIONS": [
+      "After playing #b",
+      " #yFunnel cards, upgrade #yGravity #yFunnel by #b1.",
+      "Task Completed!"
+    ]
+  },
+  "VUPShionMod:PursuitFinFunnelUpgradePower": {
+    "NAME": "Pursuing Upgrade",
+    "DESCRIPTIONS": [
+      "After playing #b",
+      " #yFunnel cards, upgrade #yPursuing #yFunnel by #b1.",
+      "Task Completed!"
+    ]
+  },
+  "VUPShionMod:DissectingFinFunnelUpgradePower": {
+    "NAME": "Dissecting Upgrade",
+    "DESCRIPTIONS": [
+      "After playing #b",
+      " #yFunnel cards, upgrade #yPursuing #yFunnel by #b1.",
+      "Task Completed!"
+    ]
+  },
+  "VUPShionMod:DeploymentOfDefenseSystemPower": {
+    "NAME": "Defense Unfold",
+    "DESCRIPTIONS": [
+      "This turn, gain #b",
+      " #yShield whenever you play a card."
+    ]
+  },
+  "VUPShionMod:DeploymentOfDefenseSystemPower2": {
+    "NAME": "Defense Unfold",
+    "DESCRIPTIONS": [
+      "This turn, gain #b",
+      " #yHyperdimensionalLink"
+    ]
+  },
+  "VUPShionMod:AnastasiaCorePower": {
+    "NAME": "Anastasia Core",
+    "DESCRIPTIONS": [
+      "This turn, gain #b",
+      " [E] and draw a card whenever you play a #yFunnel card."
+    ]
+  },
+  "VUPShionMod:AttackInitiationPower": {
+    "NAME": "Initialize",
+    "DESCRIPTIONS": [
+      "For the next #b%d cards this turn, draw #b1 card whenever you play an #yAttack."
+    ]
+  },
+  "VUPShionMod:ReleaseFormKuroisuPower": {
+    "NAME": "Liberated Form: Kuroisu",
+    "DESCRIPTIONS": [
+      "Every #b3 cards you played, gain #b%d #HyperdimensionalLinks ."
+    ]
+  },
+  "VUPShionMod:UpgradedReleaseFormKuroisuPower": {
+    "NAME": "Liberated Form: Kuroisu+",
+    "DESCRIPTIONS": [
+      "At the end of your turn, put #b%d #yQuick #ySkim+ on the top of your draw pile."
+    ]
+  },
+  "VUPShionMod:BleedingPower": {
+    "NAME": "Bleeding",
+    "DESCRIPTIONS": [
+      "Takes #b%d additional damage from Attacks this turn. NL Its stack halves at the end of turn."
+    ]
+  },
+  "VUPShionMod:DenergizePower": {
+    "NAME": "Denergize",
+    "DESCRIPTIONS": [
+      "Next turn, lose #b",
+      " [E] .",
+      " [E] ."
+    ]
+  },
+  "VUPShionMod:TempFinFunnelUpgradePower": {
+    "NAME": "Temporary Total Upgrade(弃用)",
+    "DESCRIPTIONS": [
+      " #yTotal #yUpgrade is increased by #b%d this turn."
+    ]
+  },
+  "VUPShionMod:ReleaseFormMinamiPower": {
+    "NAME": "Liberated Form: Minami",
+    "DESCRIPTIONS": [
+      "Increase #b%d%% additional effect of #yFunnel trigger by cards."
+    ]
+  },
+  "VUPShionMod:EnhancedWeaponPower": {
+    "NAME": "Accelerate",
+    "DESCRIPTIONS": [
+      "Whenever you trigger #yLoading #yComplete, draw #b%d card(s)."
+    ]
+  },
+  "VUPShionMod:ReleaseFormLiyezhuPower": {
+    "NAME": "Liberated Form: Liyezhu",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain #b%d #yHyperdimensional #yLink, gain again at the start of each of your turn. "
+    ]
+  },
+  "VUPShionMod:ReleaseFormLiyezhuBPower": {
+    "NAME": "Liberated Form: Liyezhu",
+    "DESCRIPTIONS": [
+      "At the end of your turn, deal damage #b%d times equal to your #yHyperdimensional #yLink to ALL enemies."
+    ]
+  },
+  "VUPShionMod:ReleaseFormLiyezhuCPower": {
+    "NAME": "Liberated Form: Liyezhu",
+    "DESCRIPTIONS": [
+      "At the end of your turn, deal #b%d damage to ALL enemies."
+    ]
+  },
+  "VUPShionMod:LockOnPower": {
+    "NAME": "Locked On",
+    "DESCRIPTIONS": [
+      "This enemy takes #b%d additional damage from Attacks."
+    ]
+  },
+  "VUPShionMod:LockOnPower2": {
+    "NAME": "Locked On",
+    "DESCRIPTIONS": [
+      "Whenever this creature get injured,you gain #b%d #yHyperdimensional #yLink."
+    ]
+  },
+  "VUPShionMod:AttackOrderAlphaPower": {
+    "NAME": "Order: Aggressive",
+    "DESCRIPTIONS": [
+      "Damage dealt by #yFunnel each turn is increased by #b%d times. NL Incompatible with other Orders."
+    ]
+  },
+  "VUPShionMod:AttackOrderBetaPower": {
+    "NAME": "Order: Concussive",
+    "DESCRIPTIONS": [
+      "Damage dealt by #yFunnel each turn now hit ALL enemies. NL Incompatible with other Orders."
+    ]
+  },
+  "VUPShionMod:AttackOrderGammaPower": {
+    "NAME": "Order: Harrasing",
+    "DESCRIPTIONS": [
+      "Damage dealt by #yFunnel each turn now also applies #b2 #yBleeding. NL Incompatible with other Orders."
+    ]
+  },
+  "VUPShionMod:AttackOrderDeltaPower": {
+    "NAME": "Order: Versatile",
+    "DESCRIPTIONS": [
+      "Damage dealt by #yFunnel each turn now grants you equal #yBlock. NL Incompatible with other Orders."
+    ]
+  },
+  "VUPShionMod:AttackOrderSpecialPower": {
+    "NAME": "Order: Special",
+    "DESCRIPTIONS": [
+      "Damage dealt by #yFunnel now hit ALL enemies."
+    ]
+  },
+  "VUPShionMod:DelayAvatarPower": {
+    "NAME": "Lure",
+    "DESCRIPTIONS": [
+      "Your #yLure has #b%d HP remaining. NL It deals #b%d damage #b5 times to ALL enemies upon being destroyed."
+    ]
+  },
+  "VUPShionMod:CrackOfTimePower": {
+    "NAME": "Fissure in Time",
+    "DESCRIPTIONS": [
+      "Whenever you trigger #yLoading #yComplete, gain #b%d #yBlock."
+    ]
+  },
+  "VUPShionMod:AnticoagulationPower": {
+    "NAME": "Anticoagulated",
+    "DESCRIPTIONS": [
+      "For the next #b%d turns, #yBleeding does not half at the end of turn."
+    ]
+  },
+  "VUPShionMod:LoseFinFunnelUpgradePower": {
+    "NAME": "All Out!",
+    "DESCRIPTIONS": [
+      "#yTotal #yUpgrade is set to 0."
+    ]
+  },
+  "VUPShionMod:HolyCoffinSinkingSpiritPower": {
+    "NAME": "Holy Coffin",
+    "DESCRIPTIONS": [
+      "Whenever you gain or lose #yHyperdimensional #yLink, gain #b%d #yBlock."
+    ]
+  },
+  "VUPShionMod:HolyCoffinReleasePower": {
+    "NAME": "Liberation",
+    "DESCRIPTIONS": [
+      "Whenever you trigger #yLoading #yComplete, gain #b%d #yHyperdimensional #yLink."
+    ]
+  },
+  "VUPShionMod:LoseHyperdimensionalLinksPower": {
+    "NAME": "Lose Hyperdimensional Link",
+    "DESCRIPTIONS": [
+      "At the start of the next #b%d turns, lose ALL #yHyperdimensional #yLink."
+    ]
+  },
+  "VUPShionMod:DoubleCardPower": {
+    "NAME": "Anastasia Program",
+    "DESCRIPTIONS": [
+      "Next #b%d card is played twice.",
+      "Next #b%d cards is played twice."
+    ]
+  },
+  "VUPShionMod:DefectPower": {
+    "NAME": "Crippling",
+    "DESCRIPTIONS": [
+      "Every time you receive #yunblocked damage from this enemy, lose #b%d Max HP."
+    ]
+  },
+  "VUPShionMod:ShockPower": {
+    "NAME": "Agitating",
+    "DESCRIPTIONS": [
+      "Every time you receive #yunblocked damage from this enemy, #ydiscard #b%d rarest cards in your draw pile."
+    ]
+  },
+  "VUPShionMod:DestroyPower": {
+    "NAME": "Pulverizing",
+    "DESCRIPTIONS": [
+      "Every time you receive #yunblocked damage from this enemy, #yexhaust #b%d rarest cards."
+    ]
+  },
+  "VUPShionMod:LifeLinkPower": {
+    "NAME": "Life Link",
+    "DESCRIPTIONS": [
+      "Next turn, revives at full HP if other enemies are still alive."
+    ]
+  },
+  "VUPShionMod:GravitoniumPower": {
+    "NAME": "Gravitonium",
+    "DESCRIPTIONS": [
+      "#yBlock gained from #yGravity #yFunnel is converted into #yShield."
+    ]
+  },
+  "VUPShionMod:QuickTriggerPower": {
+    "NAME": "Sequence",
+    "DESCRIPTIONS": [
+      "The next #b%d times when #yLoading #yComplete cards are created, trigger them at once."
+    ]
+  },
+  "VUPShionMod:StrengthenPower": {
+    "NAME": "Ferocity",
+    "DESCRIPTIONS": [
+      "At the end of turn, gain #b%d #yStrength."
+    ]
+  },
+  "VUPShionMod:ChaoticPower": {
+    "NAME": "Chaotic Reshuffle",
+    "DESCRIPTIONS": [
+      "Every time you shuffle your draw pile, shuffle 2 #yDazed into it."
+    ]
+  },
+  "VUPShionMod:IterativePower": {
+    "NAME": "Iterative Evolution",
+    "DESCRIPTIONS": [
+      "At the start of each turn, grab a random number to determine whether to buff themselves or to debuff you."
+    ]
+  },
+  "VUPShionMod:StiffnessPower": {
+    "NAME": "Stiffness",
+    "DESCRIPTIONS": [
+      "Upon adding up to #b4, remove all #yStiffness and end your turn."
+    ]
+  },
+  "VUPShionMod:CorGladiiPower": {
+    "NAME": "Cor Gladii",
+    "DESCRIPTIONS": [
+      "Enhances and powers certain Attacks."
+    ]
+  },
+  "VUPShionMod:MagiamObruorPower": {
+    "NAME": "Magiam Obruor",
+    "DESCRIPTIONS": [
+      "Lose [E] next turn.",
+      "Lose #b%d [E] next turn."
+    ]
+  },
+  "VUPShionMod:VampireFormPower": {
+    "NAME": "Vampire Form",
+    "DESCRIPTIONS": [
+      "Whenever you deal #yunblocked #yAttack damage, heal #b%d HP."
+    ]
+  },
+  "VUPShionMod:MensVirtusquePower": {
+    "NAME": "Anima Virtutis",
+    "DESCRIPTIONS": [
+      "Whenever you trigger #yMagiam #yObruor, you no longer lose energy and gain #b%d #yCor #yGladii instead."
+    ]
+  },
+  "VUPShionMod:HeliumLuxquePower": {
+    "NAME": "Lux Helii",
+    "DESCRIPTIONS": [
+      "At the start of next turn, deal #b%d damage to ALL enemies."
+    ]
+  },
+  "VUPShionMod:NoSkillsPower": {
+    "NAME": "Silentium Mortis",
+    "DESCRIPTIONS": [
+      "You can no longer play any #ySkill."
+    ]
+  },
+  "VUPShionMod:MorsLibraquePower": {
+    "NAME": "Mors Inevitabilis",
+    "DESCRIPTIONS": [
+      "Eliminated in #b%d turns."
+    ]
+  },
+  "VUPShionMod:PoisePower": {
+    "NAME": "Poise",
+    "DESCRIPTIONS": [
+      "Whenever you play an Attack, draw #b%d cards. NL Whenever you gain #yStiffness,gain #b1 stack less."
+    ]
+  },
+  "VUPShionMod:PetalsFallPower": {
+    "NAME": "Petals Fall",
+    "DESCRIPTIONS": [
+      "Whenever you play an #yAttack, gain #b%d #yCor #yGladii."
+    ]
+  },
+  "VUPShionMod:GainCorGladiiPower": {
+    "NAME": "Focus",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain #b%d #yCor #yGladii."
+    ]
+  },
+  "VUPShionMod:MoonstriderPower": {
+    "NAME": "Moonstrider",
+    "DESCRIPTIONS": [
+      "Whenever recieve #yAttack damage in this turn, gain #b%d #yCor #yGladii."
+    ]
+  },
+  "VUPShionMod:DistantiaAbsensquePower": {
+    "NAME": "Viatrix Absens",
+    "DESCRIPTIONS": [
+      "Whenever you gain #yMagiam #yObruor, gain #b%d #yPlated #yArmor."
+    ]
+  },
+  "VUPShionMod:WeatherEyePower": {
+    "NAME": "Weather Eye",
+    "DESCRIPTIONS": [
+      "Whenever you play an Attack, gain #b%d #yBlock."
+    ]
+  },
+  "VUPShionMod:PreTripleDamagePower": {
+    "NAME": "Prepare Triple Damage",
+    "DESCRIPTIONS": [
+      "Next turn, your #yAttacks deal triple damage.",
+      "For the next #b%d turns, your #yAttacks deal triple damage."
+    ]
+  },
+  "VUPShionMod:TripleDamagePower": {
+    "NAME": "Deal Triple Damage",
+    "DESCRIPTIONS": [
+      "This turn, your #yAttacks deal triple damage.",
+      "For the next #b%d turns, your #yAttacks deal triple damage."
+    ]
+  },
+  "VUPShionMod:NextTurnAttackPower": {
+    "NAME": "Draw Attack",
+    "DESCRIPTIONS": [
+      "At the start of next turn, draw #b%d #yAttacks.",
+      "At the start of next turn, draw #b%d #yAttacks."
+    ]
+  },
+  "VUPShionMod:TwoAttackPower": {
+    "NAME": "Double Damage",
+    "DESCRIPTIONS": [
+      "Your next #b%d #yAttacks deal double damage.",
+      "Your next #b%d #yAttacks deal double damage."
+    ]
+  },
+  "VUPShionMod:ThreeAttackPower": {
+    "NAME": "Triple Damage",
+    "DESCRIPTIONS": [
+      "Your next #b%d #yAttacks deal triple damage.",
+      "Your next #b%d #yAttacks deal triple damage."
+    ]
+  },
+  "VUPShionMod:FourAttackPower": {
+    "NAME": "Quadra Damage",
+    "DESCRIPTIONS": [
+      "Your next #b%d #yAttacks deal quadra damage.",
+      "Your next #b%d #yAttacks deal quadra damage."
+    ]
+  },
+  "VUPShionMod:TwoSkillPower": {
+    "NAME": "Double Skill",
+    "DESCRIPTIONS": [
+      "Your next #b%d #ySkills are played twice.",
+      "Your next #b%d #ySkills are played twice."
+    ]
+  },
+  "VUPShionMod:ThreeSkillPower": {
+    "NAME": "Triple Skill",
+    "DESCRIPTIONS": [
+      "Your next #b%d #ySkills are played thrice.",
+      "Your next #b%d #ySkills are played thrice."
+    ]
+  },
+  "VUPShionMod:FourSkillPower": {
+    "NAME": "Quadra Skill",
+    "DESCRIPTIONS": [
+      "Your next #b%d #ySkills are played 4 times.",
+      "Your next #b%d #ySkills are played 4 times."
+    ]
+  },
+  "VUPShionMod:TwoPowerPower": {
+    "NAME": "Double Power",
+    "DESCRIPTIONS": [
+      "Your next #b%d #yPower are played twice.",
+      "Your next #b%d #yPower are played twice."
+    ]
+  },
+  "VUPShionMod:ThreePowerPower": {
+    "NAME": "Triple Power",
+    "DESCRIPTIONS": [
+      "Your next #b%d #yPower are played thrice.",
+      "Your next #b%d #yPower are played thrice."
+    ]
+  },
+  "VUPShionMod:FourPowerPower": {
+    "NAME": "Quadra Power",
+    "DESCRIPTIONS": [
+      "Your next #b%d #yPower are played 4 times.",
+      "Your next #b%d #yPower are played 4 times."
+    ]
+  },
+  "VUPShionMod:FreeCardPower": {
+    "NAME": "No Cost",
+    "DESCRIPTIONS": [
+      "Your next #b%d cards cost 0.",
+      "Your next #b%d cards cost 0."
+    ]
+  },
+  "VUPShionMod:TurnDexPower": {
+    "NAME": "Gain Dexterity",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain #b%d #yDexterity."
+    ]
+  },
+  "VUPShionMod:GravitoniumOverPower": {
+    "NAME": "Gravity Funnel Overloaded",
+    "DESCRIPTIONS": [
+      "#yShion has overloaded #yGravity #yFunnel to its maximum..."
+    ]
+  },
+  "VUPShionMod:TurnObruorPower": {
+    "NAME": "Impotentia Mortis",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain #b%d #yMagiam #yObruor."
+    ]
+  },
+  "VUPShionMod:PlagaAMundoCounterPower": {
+    "NAME": "Reinforcement",
+    "DESCRIPTIONS": [
+      "Enemy reinforcement incoming..."
+    ]
+  },
+  "VUPShionMod:AlleviatorPower": {
+    "NAME": "Alleviator",
+    "DESCRIPTIONS": [
+      "Every first time you trigger #yMagiam #yObruor each turn, gain #b%d [E] ."
+    ]
+  },
+  "VUPShionMod:RechargerPower": {
+    "NAME": "Recharger",
+    "DESCRIPTIONS": [
+      "Whenever you gain #yMagiam #yObruor, gain #b%d #yStrength."
+    ]
+  },
+  "VUPShionMod:AcceleratorPower": {
+    "NAME": "Accelerator",
+    "DESCRIPTIONS": [
+      "Whenever you gain #yMagiam #yObruor, gain #b%d temporary #yDexterity."
+    ]
+  },
+  "VUPShionMod:RecoilerPower": {
+    "NAME": "Recoiler",
+    "DESCRIPTIONS": [
+      "Whenever you gain #yMagiam #yObruor, deal #b%d damage to ALL enemies."
+    ]
+  },
+  "VUPShionMod:GravitaterPower": {
+    "NAME": "Gravitater",
+    "DESCRIPTIONS": [
+      "Whenever you gain #yMagiam #yObruor, gain #b%d #yShield."
+    ]
+  },
+  "VUPShionMod:SuperloaderPower": {
+    "NAME": "Superloader",
+    "DESCRIPTIONS": [
+      "For the next b%d times you gain #yMagiam #yObruor, draw 1 card."
+    ]
+  },
+  "VUPShionMod:AntisequencerPower": {
+    "NAME": "Antisequencer",
+    "DESCRIPTIONS": [
+      "At the start of your turn, play the top #b%d cards in your draw pile.",
+      "At the start of your turn, play the top #b%d cards in your draw pile."
+    ]
+  },
+  "VUPShionMod:NihilImmensumPower": {
+    "NAME": "Nihil Immensum",
+    "DESCRIPTIONS": [
+      "Whenever you gain #yMagiam #yObruor for #b%d times, gain #b%d #yNihil. (Have gained #b%d times.)"
+    ]
+  },
+  "VUPShionMod:NihilImmensum2Power": {
+    "NAME": "Nihil Immensum+",
+    "DESCRIPTIONS": [
+      "Whenever you gain #yMagiam #yObruor for #b%d times, gain #b%d #yNihil. (Have gained #b%d times.)"
+    ]
+  },
+  "VUPShionMod:ImmuneDamagePower": {
+    "NAME": "Nihil",
+    "DESCRIPTIONS": [
+      "Any damage taken is reduced to #b0 this turn. This power cannot be stacked."
+    ]
+  },
+  "VUPShionMod:OculusMortisPower": {
+    "NAME": "Oculus Occidit",
+    "DESCRIPTIONS": [
+      "At the start of your turn, apply #b1 #yVulnerable to #b%d random enemies."
+    ]
+  },
+  "VUPShionMod:OculusMortis2Power": {
+    "NAME": "Oculus Occidit+",
+    "DESCRIPTIONS": [
+      "At the start of your turn, apply #b%d Vulnerable to ALL enemies."
+    ]
+  },
+  "VUPShionMod:FlawlessParryPower": {
+    "NAME": "Parry",
+    "DESCRIPTIONS": [
+      "Prevent the next time you would lose HP in this turn.",
+      "Prevent the next #b%d times you would lose HP in this turn."
+    ]
+  },
+  "VUPShionMod:PsychicPower": {
+    "NAME": "Psychic",
+    "DESCRIPTIONS": [
+      "Some cards cost #yPsychic to activate additional effects."
+    ]
+  },
+  "VUPShionMod:SinPower": {
+    "NAME": "Sinful",
+    "DESCRIPTIONS": [
+      "Marker that activates some particular effects."
+    ]
+  },
+  "VUPShionMod:LoseHPPower": {
+    "NAME": "Lose HP",
+    "DESCRIPTIONS": [
+      "At the start of your turn, lose #b%d HP."
+    ]
+  },
+  "VUPShionMod:DoubleDamageReceivePower": {
+    "NAME": "Receive Double Damage",
+    "DESCRIPTIONS": [
+      "Damage receive is doubled this turn.",
+      "Damage receive is doubled for #b%d turns."
+    ]
+  },
+  "VUPShionMod:ChasteReflectionPower": {
+    "NAME": "Chaste Reflection",
+    "DESCRIPTIONS": [
+      "At the start of next turn, deal damage equal to that received this turn to ALL enemies. (deal #b%d damage.)",
+      "At the start of next #b%d turns, deal damage equal to that received this turn to ALL enemies. (deal #b%d damage.)"
+    ]
+  },
+  "VUPShionMod:CalamityPower": {
+    "NAME": "Calamitously Sinful",
+    "DESCRIPTIONS": [
+      "At the the start of your turn, apply #b%d #ySinful to ALL ENTITIES and #yPunitive #b%d."
+    ]
+  },
+  "VUPShionMod:Calamity2Power": {
+    "NAME": "Clamitously Enfeebled",
+    "DESCRIPTIONS": [
+      "At the the start of your turn, ALL enemies lose Strength equal to their #ySinful."
+    ]
+  },
+  "VUPShionMod:HallowedCasketPower": {
+    "NAME": "Hallowed Casket",
+    "DESCRIPTIONS": [
+      "At the end of your turn, add #b%d #yMiracle into your discard pile and gain #b%d #yPsychic."
+    ]
+  },
+  "VUPShionMod:EnsanguinedFigurePower": {
+    "NAME": "Ensanguined Figure",
+    "DESCRIPTIONS": [
+      "Whenever you receive damage, apply #b%d #ySinful to ALL ENTITIES."
+    ]
+  },
+  "VUPShionMod:EnsanguinedFigurePower2": {
+    "NAME": "Ensanguined Figure+",
+    "DESCRIPTIONS": [
+      "Whenever you receive damage, apply #b%d #ySinful to ALL enemies."
+    ]
+  },
+  "VUPShionMod:CrimsonDelugePower": {
+    "NAME": "Crimson Deluge",
+    "DESCRIPTIONS": [
+      "HP regen beyond Max HP is converted into half of #yShield. NL Whenever you play an #yAttack ,heal #b%d HP."
+    ]
+  },
+  "VUPShionMod:AsceticismPower": {
+    "NAME": "Ecstasy of Asceticism",
+    "DESCRIPTIONS": [
+      "Every time you lose HP, heal #b%d HP."
+    ]
+  },
+  "VUPShionMod:Asceticism2Power": {
+    "NAME": "Frenzy of Asceticism",
+    "DESCRIPTIONS": [
+      "Every #b2 times you lose HP, draw #b%d cards."
+    ]
+  },
+  "VUPShionMod:TranscendSoulPower": {
+    "NAME": "Mend Soul",
+    "DESCRIPTIONS": [
+      "At the end of your turn, heal HP #b%d times of #yPsychic."
+    ]
+  },
+  "VUPShionMod:TranscendSoul2Power": {
+    "NAME": "Scorch Soul",
+    "DESCRIPTIONS": [
+      "Whenever you lose HP,deal damage equal to #b%d times of HP you lose to ALL enemies."
+    ]
+  },
+  "VUPShionMod:ArbitrationPower": {
+    "NAME": "Arbitratus",
+    "DESCRIPTIONS": [
+      "Whenever you deal unblocked damage, apply #b%d #ySinful."
+    ]
+  },
+  "VUPShionMod:Arbitration2Power": {
+    "NAME": "Arbitratus Omnes",
+    "DESCRIPTIONS": [
+      "Whenever you trigger #yPunitive, apply #b%d #ySinful to ALL ENTITIES."
+    ]
+  },
+  "VUPShionMod:Arbitration3Power": {
+    "NAME": "Arbitratus Omnes-Heal",
+    "DESCRIPTIONS": [
+      "Whenever you trigger #yPunitive , heal #b%d HP."
+    ]
+  },
+  "VUPShionMod:ProphecyOfDestructionPower": {
+    "NAME": "Prophecy of Demise",
+    "DESCRIPTIONS": [
+      "Whenever you apply #yPrayer effect, deal #b%d damage to a random enemy."
+    ]
+  },
+  "VUPShionMod:ProphecyOfSalvationPower": {
+    "NAME": "Prophecy of Salvation",
+    "DESCRIPTIONS": [
+      "Whenever you apply #yPrayer effect, heal #b%d HP."
+    ]
+  },
+  "VUPShionMod:BrokenSanctuaryPower": {
+    "NAME": "Broken Sanctuary",
+    "DESCRIPTIONS": [
+      " #yPrayer cards cost 0."
+    ]
+  },
+  "VUPShionMod:BrokenSanctuary2Power": {
+    "NAME": "Broken Sanctuary-Draw",
+    "DESCRIPTIONS": [
+      "Whenever you played a #yPrayer card,draw #b%d card.",
+      "Whenever you played a #yPrayer card,draw #b%d cards."
+    ]
+  },
+  "VUPShionMod:PrecastingPower": {
+    "NAME": "Precasting",
+    "DESCRIPTIONS": [
+      "Your next #yPrayer takes effect all at once immediately.",
+      "Your next #b%d #yPrayers take effect all at once immediately."
+    ]
+  },
+  "VUPShionMod:StructureDissectionPower": {
+    "NAME": "Structure Dissection",
+    "DESCRIPTIONS": [
+      "it has #b%d #yStructure #yDissection. NL NL Trigger effect when the number of stack is reached:",
+      " NL #b%d :Apply #b5 #yVulnerable .",
+      " NL #b%d :Apply #b5 #yFrail .",
+      " NL #b%d :At whis turn lose #b9 #yStrength .",
+      " NL #b%d :Apply #yslow .",
+      " NL #b%d :Lose #b1 #yStrength .",
+      " NL #b%d :Lose #b2 #yStrength .",
+      " NL #b%d :Receive #b10%% Maxhp Damage.",
+      " NL #b%d :Lose #b5%% Maxhp.",
+      " NL #b%d :Lose #b5%% Maxhp.",
+      " NL #b%d :Damage received increase #b3 .",
+      " NL #b%d :Lose this effect and: NL Boss enemy-Analysis power or lose #b3 #ystrength. NL None Boss enemy- #ystun.",
+      " NL NL #rBoss-%s NL Lose #y%s.",
+      " NL NL #rBoss-%s NL Reduce HP of #y%s to 1.",
+      " NL NL #rBoss-%s NL Lose #b3 #yStrength."
+    ]
+  },
+  "VUPShionMod:ReinsOfWarPower": {
+    "NAME": "Reins of War",
+    "DESCRIPTIONS": [
+      "At the start of each turn, gain effect based on this stack:",
+      " NL #b1-3 :Gain #b1 #yDexterity .",
+      " NL #b4-5 :Gain #b1 #yStrength and #yDexterity .",
+      " NL #b6-10 :Gain #b2 #yStrength and #yDexterity .",
+      " NL #b11-15 :Gain #b2 #yStrength and 2 #yDexterity .",
+      " NL #b16-20 :Gain #b2 #yStrength , #yDexterity and [E] .",
+      " NL #b21-25 :Gain #b3 #yStrength , 2 #yDexterity and [E] .",
+      " NL #b26 and above :Gain #b3 #yStrength , 2 #yDexterity and [E] [E] ."
+    ]
+  },
+  "VUPShionMod:SpatialTearPower": {
+    "NAME": "Rupture",
+    "DESCRIPTIONS": [
+      "Upon reaching #b18, add 1 #yExile into your hand and remove this effect."
+    ]
+  },
+  "VUPShionMod:OppressiveSwordPower": {
+    "NAME": "Suppressing Blade",
+    "DESCRIPTIONS": [
+      "You will not lose #yCor #yGladii this turn.",
+      "You will not lose #yCor #yGladii for #b%d turns."
+    ]
+  },
+  "VUPShionMod:FlyPower": {
+    "NAME": "Flying",
+    "DESCRIPTIONS": [
+      "The first #b%d #yattack received each turn deal #b50%% less damage.",
+      "The first #b%d #yattacks received each turn deal #b50%% less damage.",
+      "Takes #b50%% less damage from #yAttacks."
+    ]
+  },
+  "VUPShionMod:SiegePower": {
+    "NAME": "Sieged",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain #b%d #yVulnerable, #yFrail and #yWeak."
+    ]
+  },
+  "VUPShionMod:ContortTimePower": {
+    "NAME": "Contort the Time",
+    "DESCRIPTIONS": [
+      "#rThe #rstars #rtremble #rto #rits #reach #rand #revery #rmove. NL Whenever you play a card, receive #b%d damage. "
+    ]
+  },
+  "VUPShionMod:MalignBenevolencePower": {
+    "NAME": "Malign Benevolence",
+    "DESCRIPTIONS": [
+      "#rThe #rWorm #rof #rthe #rTime #rbasiates #rgently. NL The worm of the time basiates gently, shuffle #b%d #yDecay into it.",
+      "#rThe #rWorm #rof #rthe #rTime #rbasiates #rgently. NL The worm of the time basiates gently, shuffle #b%d #yDecay into it."
+    ]
+  },
+  "VUPShionMod:LoomingPower": {
+    "NAME": "Looming",
+    "DESCRIPTIONS": [
+      "#rSomething...is #rcoming.  NL The #b%d turns count down has begun...",
+      "#rSomething...is #rcoming.  NL The #b%d turns count down has begun..."
+    ]
+  },
+  "VUPShionMod:HulkingPower": {
+    "NAME": "Hulking",
+    "DESCRIPTIONS": [
+      "#rIt #ris #rin #ra #rsize #rmatched #rby #rplanets... NL It recieves #b%d damage for most each turn"
+    ]
+  },
+  "VUPShionMod:StainTheMindPower": {
+    "NAME": "Stain the Mind",
+    "DESCRIPTIONS": [
+      "#rIt #rchannels #rspiritual #rcontroling #rwave #rin #ra #rwide #rrange. NL Every time you shuffle your draw pile, shuffle #b%d #yDecay into it. ",
+      "#rIt #rchannels #rspiritual #rcontroling #rwave #rin #ra #rwide #rrange. NL Every time you shuffle your draw pile, shuffle #b%d #yDecay into it. "
+    ]
+  },
+  "VUPShionMod:DemonOfTimePower": {
+    "NAME": "Demon of Time",
+    "DESCRIPTIONS": [
+      "#rIt #rroams #routside #rof #rthe #rtime. NL Heals #b%d HP each tuen. "
+    ]
+  },
+  "VUPShionMod:LabyrinthOfTimelinePower": {
+    "NAME": "Labyrinth of Timeline",
+    "DESCRIPTIONS": [
+      "#rThe #rlines #rof #rtime #ris #rdisordered. NL Whenever you play #b%d cards in a single turn, lose 1 #yBuff ."
+    ]
+  },
+  "VUPShionMod:SubspacePursuerPower": {
+    "NAME": "Subspace Pursuer",
+    "DESCRIPTIONS": [
+      "#rThe #rtentacles #rare #runpredictable. NL At the end of turn, it deals #b%d #ynon-Attack damage #b%d times. ",
+      "#rThe #rtentacles #rare #runpredictable. NL At the end of turn, it deals #b%d #ynon-Attack damage #b%d times "
+    ]
+  },
+  "VUPShionMod:AnnihilatingCanonPower": {
+    "NAME": "Annihilating Canon",
+    "DESCRIPTIONS": [
+      "#rStep #raside! #rAside! NL Whenever you play a #ySkill, this turn #yAnnihilating Canon damage decause #b%d ."
+    ]
+  },
+  "VUPShionMod:ConcordPower": {
+    "NAME": "Concord",
+    "DESCRIPTIONS": [
+      "Your Attacks deal #b%d%% less damage. NL You take #b%d%% more damage from attacks.",
+      "Your Attacks deal #b%d%% more damage. NL You take #b%d%% less damage from attacks.(up to #b50%%.)"
+    ]
+  },
+  "VUPShionMod:ClaymoreSetPower": {
+    "NAME": "Claymore Mine",
+    "DESCRIPTIONS": [
+      "The next time you receive damage from enemy attacks, deal #b%d damage back."
+    ]
+  },
+  "VUPShionMod:StrikeIntegratedPower": {
+    "NAME": "Order: Bloodletting",
+    "DESCRIPTIONS": [
+      "Whenever you trigger the passive ability of #yScouting #yFunnel, trigger #yBleeding damage as well. NL Incompatible with other Orders. NL Unstackable."
+    ]
+  },
+  "VUPShionMod:ChainPursuitPower": {
+    "NAME": "Order: Chain Pursuit",
+    "DESCRIPTIONS": [
+      "Whenever you trigger 5 times of the passive ability of #yFunnel, draw 1 card and gain #b1 #yHyperdimensionalLink. NL Incompatible with other Orders. NL Unstackable."
+    ]
+  },
+  "VUPShionMod:AoeAnalysisPower": {
+    "NAME": "Order: AoE Analysis",
+    "DESCRIPTIONS": [
+      "Apply an additional stack when you apply #yStructure #yDissection. NL Incompatible with other Orders. NL Unstackable."
+    ]
+  },
+  "VUPShionMod:GravityVortexPower": {
+    "NAME": "Order: Gravity Vortex",
+    "DESCRIPTIONS": [
+      "Whenever you trigger 5 times of the passive ability of #yFunnel, gain #b6 enemies number of #yBlock. NL Incompatible with other Orders. NL Unstackable."
+    ]
+  },
+  "VUPShionMod:GravityRepressionPower": {
+    "NAME": "Gravity Repercussion",
+    "DESCRIPTIONS": [
+      "Whenever you trigger the passive ability of #yGravity #yFunnel, trigger that of #yPursuing #yFunnel as well. NL Unstackable."
+    ]
+  },
+  "VUPShionMod:TrackingAnalysisPower": {
+    "NAME": "Tracking Analysis",
+    "DESCRIPTIONS": [
+      "Whenever you trigger the passive ability of #yPursuing #yFunnel, trigger that of #yDissecting #yFunnel as well. NL Unstackable."
+    ]
+  },
+  "VUPShionMod:CollaborativeInvestigationPower": {
+    "NAME": "Auxiliary Scouting",
+    "DESCRIPTIONS": [
+      "Whenever you trigger the passive ability of any other #yFunnel, trigger that of #yScouting #yFunnel as well. NL Unstackable."
+    ]
+  },
+  "VUPShionMod:DefensiveOrderPower": {
+    "NAME": "Defensive Command",
+    "DESCRIPTIONS": [
+      "This turn, any #yBleeding, #yPursued damage to deal is converted into Block, any active damage dealt by #yFunnel is converted into #yShield.",
+      "For the next #b%d turns, any #yBleeding, #yPursued damage to deal is converted into Block, any active damage dealt by #yFunnel is converted into #yShield."
+    ]
+  },
+  "VUPShionMod:AntiAirPower": {
+    "NAME": "Antiair Barrage",
+    "DESCRIPTIONS": [
+      "At the end of turn, it deals #b%d #ynon-Attack damage #b%d times. ",
+      "At the end of turn, it deals #b%d #ynon-Attack damage #b%d times "
+    ]
+  },
+  "VUPShionMod:MatrixFinFunnelUpgradePower": {
+    "NAME": "Matrix Upgrade",
+    "DESCRIPTIONS": [
+      "After playing #b",
+      " #yFunnel cards, upgrade #yMatrix #yFunnel by #b1.",
+      "Task Completed!"
+    ]
+  },
+  "VUPShionMod:MatrixAmplifyPower": {
+    "NAME": "Order: Amplifying",
+    "DESCRIPTIONS": [
+      "Double the effect of #yAuto #yFunnel. NL Incompatible with other Orders. NL Unstackable."
+    ]
+  },
+  "VUPShionMod:WideAreaLockingPower": {
+    "NAME": "AoE Targeting",
+    "DESCRIPTIONS": [
+      "The next #yAuto #yFunnel attack from full #yMatrix #yCharge hits ALL enemies.",
+      "The next #b%d #yAuto #yFunnel attacks from full #yMatrix #yCharge hits ALL enemies."
+    ]
+  },
+  "VUPShionMod:FireCalibrationPower": {
+    "NAME": "Firepower Calibration",
+    "DESCRIPTIONS": [
+      "Damage received is increased by #b%d."
+    ]
+  },
+  "VUPShionMod:DespairPower": {
+    "NAME": "Approaching Despair",
+    "DESCRIPTIONS": [
+      "#rSomething bad is about to happen. NL #rWe must hurry. NL Confront the Worm of the Time at the end of this turn.",
+      "#rSomething bad is about to happen. NL #rWe must hurry. NL Confront the Worm of the Time in #b%d turns."
+    ]
+  },
+  "VUPShionMod:ReleaseFormEisluRenPower": {
+    "NAME": "Eislu Ren Form",
+    "DESCRIPTIONS": [
+      "Whenever you trigger #yLoading #yComplete #b5 times,gain #b%d [E]."
+    ]
+  },
+  "VUPShionMod:ReduceDamagePower": {
+    "NAME": "Reduce Damage Taken",
+    "DESCRIPTIONS": [
+      "Damage taken this turn is decreased by #b%d%%."
+    ]
+  },
+  "VUPShionMod:AttackIncreasePower": {
+    "NAME": "Increase Attack Damage",
+    "DESCRIPTIONS": [
+      "The next #yAttack deals #b%d%% more damage."
+    ]
+  },
+  "VUPShionMod:TurnAttackIncreasePower": {
+    "NAME": "Fierceness",
+    "DESCRIPTIONS": [
+      "This turn, #yAttacks deal #b%d%% more damage."
+    ]
+  },
+  "VUPShionMod:IronWallPower": {
+    "NAME": "Rampart",
+    "DESCRIPTIONS": [
+      "Damage taken this turn is decreased by #b30%."
+    ]
+  },
+  "VUPShionMod:RoyalGuardianPower": {
+    "NAME": "Royal Watch",
+    "DESCRIPTIONS": [
+      "This turn, for every #b7 damage you take from enemy attacks, gain #b%d #yRecycle."
+    ]
+  },
+  "VUPShionMod:ExtremeOverloadPower": {
+    "NAME": "Overburdened",
+    "DESCRIPTIONS": [
+      "At the start of the next turn, lose half of #yConstruct #yRecharge. ",
+      "At the start of the next #b%d turns, lose half of #yConstruct #yRecharge. "
+    ]
+  },
+  "VUPShionMod:WingsOfDaedalusPower": {
+    "NAME": "Wings of Daedalus",
+    "DESCRIPTIONS": [
+      "Whenever you gain #yDexterity or #ytemporary #yDexterity , gain #b%d times of that much #yStrength or #ytemporary #yStrength."
+    ]
+  },
+  "VUPShionMod:StonehengePower": {
+    "NAME": "Stonehenge",
+    "DESCRIPTIONS": [
+      "Whenever you played a card: NL #rAttack: Gain #b%d #yRecycle. NL #gSkill: Gain #b%d #yShield. NL #bPower: Gain #b%d [E]."
+    ]
+  },
+  "VUPShionMod:EternalEchoPower": {
+    "NAME": "Echo",
+    "DESCRIPTIONS": [
+      "Whenever you lose Energy, gain #b%d #yRecycle."
+    ]
+  },
+  "VUPShionMod:SupportTimeDrivenPower": {
+    "NAME": "Actuated",
+    "DESCRIPTIONS": [
+      "This turn, you do not lose #yConstruct #yRecharge.",
+      "In #b%d turns, you do not lose #yConstruct #yRecharge."
+    ]
+  },
+  "VUPShionMod:SupportGravitaterPower": {
+    "NAME": "Gravity Amplifier",
+    "DESCRIPTIONS": [
+      "For every #b5 #yConstruct #yRecharge you gain, gain #b%d #yStrength and #yDexterity."
+    ]
+  },
+  "VUPShionMod:HurricaneVortexPower": {
+    "NAME": "Tornado",
+    "DESCRIPTIONS": [
+      "At the start of next #b%d turns, deal damage equal to #yDexterity and apply 1 #yWeak to ALL enemies.",
+      "At the start of next #b%d turns, deal damage equal to #b%d x #yDexterity and apply 1 #yWeak to ALL enemies."
+    ]
+  },
+  "VUPShionMod:ForestBarrierPower": {
+    "NAME": "Vegetated",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain #yShield equal to half of #yConstricted you have applied this combat. NL Apply #b%d #yConstricted to ALL enemies for #b3 times."
+    ]
+  },
+  "VUPShionMod:WorldTreeLinkPower": {
+    "NAME": "Worldtree Channel",
+    "DESCRIPTIONS": [
+      "At the start of your turn, draw cards until your hand is full. NL Increase your hand size by #b1."
+    ]
+  },
+  "VUPShionMod:SpiritCloisterPower": {
+    "NAME": "Spiritual Corridor",
+    "DESCRIPTIONS": [
+      "Damage dealt by the #yElf increases as your #yStrength increases. NL Heal #b1 HP to the #yElf when its HP reaches 0. NL It can no longer be selected as the target until healed."
+    ]
+  },
+  "VUPShionMod:SynchroSummonPower": {
+    "NAME": "Synchrochannel",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain #b%d #yStrength while the HP of the #yElf is above #b0. "
+    ]
+  },
+  "VUPShionMod:BossChainPursuitPower": {
+    "NAME": "Chain Pursuit",
+    "DESCRIPTIONS": [
+      "At the end of turn, apply #b%d #yPursued to you."
+    ]
+  },
+  "VUPShionMod:BossAttackLoaderPower": {
+    "NAME": "Offensive Preload",
+    "DESCRIPTIONS": [
+      "Whenever you shuffle, shuffle #b%d #yPursuing #yFunnel into your draw pile.",
+      "Whenever you shuffle, shuffle #b%d #yPursuing #yFunnel into your draw pile."
+    ]
+  },
+  "VUPShionMod:BossAvatarSpawnPower": {
+    "NAME": "Gain Lure",
+    "DESCRIPTIONS": [
+      "At the end of your turn, gain #b%d #yLures, each having #b5 HP."
+    ]
+  },
+  "VUPShionMod:BossAvatarPower": {
+    "NAME": "Shion's Lure",
+    "DESCRIPTIONS": [
+      "A #yLure of #yShion has #b%d HP remaining. NL There are #b%d #yLure remaining."
+    ]
+  },
+  "VUPShionMod:PotentialOutbreakPower": {
+    "NAME": "Potential Outburst",
+    "DESCRIPTIONS": [
+      "After taking #b%d more damage, end your turn and perform a #yPowerful action."
+    ]
+  },
+  "VUPShionMod:SystemHackPower": {
+    "NAME": "Hacked In",
+    "DESCRIPTIONS": [
+      "This turn, all your powers are disabled. NL At the start of your turn, play and discard and exhaust 1 each of the cards in your hand."
+    ]
+  },
+  "VUPShionMod:MagicDisorderPower": {
+    "NAME": "Magia Disorder",
+    "DESCRIPTIONS": [
+      "This turn, all your powers are disabled. NL At the start of your turn, take #b30 damage."
+    ]
+  },
+  "VUPShionMod:ActionBlockadePower": {
+    "NAME": "Action Disabled",
+    "DESCRIPTIONS": [
+      "This turn, all your powers are disabled. NL You can not play any Skill this turn."
+    ]
+  },
+  "VUPShionMod:AutoShieldPower": {
+    "NAME": "Auto Shield",
+    "DESCRIPTIONS": [
+      "At the end of your turn, gain #b%d #yShield."
+    ]
+  },
+  "VUPShionMod:LightArmorPower": {
+    "NAME": "Bright Armor",
+    "DESCRIPTIONS": [
+      "Take #b%d%% less damage from enemy attacks."
+    ]
+  },
+  "VUPShionMod:CoverPower": {
+    "NAME": "Cover",
+    "DESCRIPTIONS": [
+      "Does not take any damage while the allies are present."
+    ]
+  },
+  "VUPShionMod:MagicFlyingBladePower": {
+    "NAME": "Magic Darts",
+    "DESCRIPTIONS": [
+      "At the end of your turn, deal #b%d #ynon-attack damage for #b%d times to you.",
+      "At the end of your turn, deal #b%d #ynon-attack damage for #b%d times to you."
+    ]
+  },
+  "VUPShionMod:WhiteRosePower": {
+    "NAME": "White Rose",
+    "DESCRIPTIONS": [
+      "Whenever you take damage from enemy attacks, gain #b%d #yPlated #yArmor. NL At the end of your turn, gain #b%d #yBuffer."
+    ]
+  },
+  "VUPShionMod:CrimsonDelugeBossPower": {
+    "NAME": "Crimson Deluge",
+    "DESCRIPTIONS": [
+      "Any HP healed beyond Max HP is converted into #yShield."
+    ]
+  },
+  "VUPShionMod:FinalPrayerPower": {
+    "NAME": "Final Prayer",
+    "DESCRIPTIONS": [
+      "Whenever you draw 1 Curse or Status card, draw 1 card and gain [E]. NL Whenever you lose #yBlock, gain #b5 #yBlock. NL Whenever you gain #yBlock, gain equal #yShield."
+    ]
+  },
+  "VUPShionMod:StunPlayerPower": {
+    "NAME": "Stunned",
+    "DESCRIPTIONS": [
+      "You can't play Any card in this turn."
+    ]
+  },
+  "VUPShionMod:ConcordSnipePower": {
+    "NAME": "Concord: Snipe",
+    "DESCRIPTIONS": [
+      "At the start of turn, apply #b%d #yLocked #yOn to you."
+    ]
+  },
+  "VUPShionMod:HallowedCasketPower2": {
+    "NAME": "Hallowed Case - Miracle",
+    "DESCRIPTIONS": [
+      "Whenever you Exhaust #yMiracle ,draw #b%d card and gain #b%d #yPsychic.",
+      "Whenever you Exhaust #yMiracle ,draw #b%d cards and gain #b%d #yPsychic."
+    ]
+  },
+  "VUPShionMod:YonggukCityTroyPower": {
+    "NAME": "Troy the Invincible",
+    "DESCRIPTIONS": [
+      "Whenever you gain or lose #yConstruct #yRecharge, gain #yShield #b%d times of that gain or loss."
+    ]
+  },
+  "VUPShionMod:HotRestartPower": {
+    "NAME": "Warm Restart",
+    "DESCRIPTIONS": [
+      "This turn, #yImpact #yAbsorption does not decrease."
+    ]
+  },
+  "VUPShionMod:SwearPower": {
+    "NAME": "Promise",
+    "DESCRIPTIONS": [
+      "Until the start of your next turn, your HP does not drop below #b1.",
+      "Until the start of your next #b%d turns, your HP does not drop below #b1."
+    ]
+  },
+  "VUPShionMod:HealToShieldPower": {
+    "NAME": "Life Shield",
+    "DESCRIPTIONS": [
+      "This turn, gain #yShield equal to the HP healed.",
+      "In #b%d turns, #gain #yShield equal to the HP healed."
+    ]
+  },
+  "VUPShionMod:LeachingBloodPower": {
+    "NAME": "Leech",
+    "DESCRIPTIONS": [
+      "Your next #yAttack heals you equal to the unblocked damage it deals.",
+      "Your next #b%d #yAttacks heal you equal to the unblocked damage they deal."
+    ]
+  },
+  "VUPShionMod:SubLunaPower": {
+    "NAME": "Sub Luna",
+    "DESCRIPTIONS": [
+      "This turn, you do not lose ##yCor #yGladii.",
+      "In #b%d turns, you do not lose #yCor #yGladii."
+    ]
+  },
+  "VUPShionMod:IntensaPower": {
+    "NAME": "Intensa",
+    "DESCRIPTIONS": [
+      "At the start of your next turn, gain #yCor #yGladii you lose this turn.(Gain #b%d)"
+    ]
+  },
+  "VUPShionMod:ProphecyOfSalvation2Power": {
+    "NAME": "Prophecy of Demise",
+    "DESCRIPTIONS": [
+      "Healing is #b%d%% more effective in this combat."
+    ]
+  },
+  "VUPShionMod:ProphecyOfDestruction2Power": {
+    "NAME": "Prophecy of Demise",
+    "DESCRIPTIONS": [
+      "At the start of your turn, you may #yExhaust 2 cards to apply #b%d #ySinful to ALL enemies."
+    ]
+  },
+  "VUPShionMod:CoverMinionPower": {
+    "NAME": "Cover",
+    "DESCRIPTIONS": [
+      "This turn, your #yally does not take any damage."
+    ]
+  },
+  "VUPShionMod:SinfulMarkPower": {
+    "NAME": "Sinful Mark",
+    "DESCRIPTIONS": [
+      "Whenever you apply #ySinful to it, apply additional #b%d."
+    ]
+  },
+  "VUPShionMod:ExemptionPower": {
+    "NAME": "Exempted",
+    "DESCRIPTIONS": [
+      "This turn, whenever you take damage from #yPunitive, heal HP equal to #b120%% of that damage. NL Upon entering #yWordpower #yStance, convert this status into #yDivine #yJudgement.",
+      "In #b%d turns, whenever you take damage from #yPunitive, heal HP equal to #b120%% of that damage. NL Upon entering #yWordpower #yStance, convert this status into #yDivine #yJudgement."
+    ]
+  },
+  "VUPShionMod:DivineJudgmentPower": {
+    "NAME": "Divine Judgement",
+    "DESCRIPTIONS": [
+      "This turn, #yPunitive deals #b100%% more damage.",
+      "In #b%d turns, #yPunitive deals #b100%% more damage."
+    ]
+  },
+  "VUPShionMod:DecreePower": {
+    "NAME": "Divine Will",
+    "DESCRIPTIONS": [
+      "This turn, this enemy's attack damages itself.",
+      "In #b%d turns, this enemy's attack damages itself."
+    ]
+  },
+  "VUPShionMod:PreExecutionPower": {
+    "NAME": "Pre-execution",
+    "DESCRIPTIONS": [
+      "This turn, you gain #b%d%% more #yCor #yGladii."
+    ]
+  },
+  "VUPShionMod:PreExecutionPower2": {
+    "NAME": "Clarity",
+    "DESCRIPTIONS": [
+      "Whenever you gain #yCor #Gladii this turn, gain #b%d%% Block that much."
+    ]
+  },
+  "VUPShionMod:StiffnessEndIncreasePower": {
+    "NAME": "Ease",
+    "DESCRIPTIONS": [
+      "Your turn is not ended until you gain #b%d more #yStiffness above the threshold of 4."
+    ]
+  },
+  "VUPShionMod:EarthBlessingPower": {
+    "NAME": "Earth Blessing",
+    "DESCRIPTIONS": [
+      "Immune to ALL Debuffs."
+    ]
+  },
+  "VUPShionMod:WaveSlasherPower": {
+    "NAME": "Wave Slasher",
+    "DESCRIPTIONS": [
+      "The first #yAttack played each turn costs #b0."
+    ]
+  },
+  "VUPShionMod:LoseEnergyPower": {
+    "NAME": "Lose Energy",
+    "DESCRIPTIONS": [
+      "Lose [E] next turn.",
+      "Lose #b%d [E] next turn."
+    ]
+  },
+  "VUPShionMod:TakeDamagePower": {
+    "NAME": "Take Damage",
+    "DESCRIPTIONS": [
+      "Take #b%d damage at the start of the next turn."
+    ]
+  },
+  "VUPShionMod:FusionPower": {
+    "NAME": "Fusion",
+    "DESCRIPTIONS": [
+      "#yTho'om cards cost #b1 more and deal #b50% more damage. NL This effect can be stacked #b3 times and add 1 #yTime #yRift into your hand when it does. NL Whenever you gain #yCooldown, lose this effect."
+    ]
+  },
+  "VUPShionMod:ColdPower": {
+    "NAME": "Cooldown",
+    "DESCRIPTIONS": [
+      "#yTho'om cards cost 0 and deal #b50% less damage. NL Whenever you gain #yFusion, lose this effect."
+    ]
+  },
+  "VUPShionMod:ElectroChargedPower": {
+    "NAME": "Electrocute",
+    "DESCRIPTIONS": [
+      "At the end of turn, receive damage #b2 times of this effect and lose this effect by #b1. NL Stacks lost do not reduce the damage would deal."
+    ]
+  },
+  "VUPShionMod:ReactionPower": {
+    "NAME": "Inhibition",
+    "DESCRIPTIONS": [
+      "At the end of turn, gain #b%d #yStrength, heal #b%d%% Max HP and lose this effect. NL This effect is removed if received #b%d #yunblocked damage this turn."
+    ]
+  },
+  "VUPShionMod:TimeMarkEnemyPower": {
+    "NAME": "Signum Ruinae",
+    "DESCRIPTIONS": [
+      "The damage would take is postponed to the end of turn and is increased by #b10%. NL This effect can be stacked #b9 times maximum."
+    ]
+  },
+  "VUPShionMod:TimeMarkPlayerPower": {
+    "NAME": "Signum Gratiae",
+    "DESCRIPTIONS": [
+      "The damage would take is postponed to the end of turn and is decreased by #b5%. NL This effect can be stacked #b9 times maximum."
+    ]
+  },
+  "VUPShionMod:TraceBackPower": {
+    "NAME": "Trace Back",
+    "DESCRIPTIONS": [
+      "Gain #b%d #yInhibition next turn."
+    ]
+  },
+  "VUPShionMod:TurbulancePower": {
+    "NAME": "Turbulance",
+    "DESCRIPTIONS": [
+      "Deal damage multiple times to random enemies next turn."
+    ]
+  },
+  "VUPShionMod:TurbulancePower2": {
+    "NAME": "Turbulance+",
+    "DESCRIPTIONS": [
+      "Deal more damage multiple times to random enemies next turn."
+    ]
+  },
+  "VUPShionMod:ChaoticLogicPower": {
+    "NAME": "Chaotic Logic",
+    "DESCRIPTIONS": [
+      "ALL enemies would deal damage to themselves this turn. NL Apply #b%d #yInhibition to ALL enemies next turn."
+    ]
+  },
+  "VUPShionMod:ReversePower": {
+    "NAME": "Reverse",
+    "DESCRIPTIONS": [
+      "If you die in this combat, heal to your starting HP and apply #b%d #yInhibition to ALL enemies.(%d time remain.)",
+      "If you die in this combat, heal to your starting HP and apply #b%d #yInhibition to ALL enemies.(%d time remain.)"
+    ]
+  },
+  "VUPShionMod:ButterflyEffectPower": {
+    "NAME": "Butterfly Effect",
+    "DESCRIPTIONS": [
+      "Whenever you play an #rAttack, deal 1~%d damage to a random enemy. NL Whenever you play a #gSkill, gain 1~%d #yBlock.",
+      "Whenever you play an #rAttack, deal 1~%d damage to a random enemy #b%d times. NL Whenever you play a #gSkill, gain 1~%d #yBlock #b%d times."
+    ]
+  },
+  "VUPShionMod:ButterflyEffectPower2": {
+    "NAME": "Butterfly Effect+",
+    "DESCRIPTIONS": [
+      "Whenever you play an #rAttack, deal 1~%d damage to a random enemy. NL Whenever you play a #gSkill, gain 1~%d #yBlock. NL Whenever you play a #bPower, play a random common non-Power card.",
+      "Whenever you play an #rAttack, deal 1~%d damage to a random enemy #b%d times. NL Whenever you play a #gSkill, gain 1~%d #yBlock #b%d times. NL Whenever you play a #bPower, play #b%d random common non-Power cards."
+    ]
+  },
+  "VUPShionMod:DejaVuPower": {
+    "NAME": "Deja Vu",
+    "DESCRIPTIONS": [
+      "Whenever you play 1 card, you have #b25% chance to gain Energy of its cost."
+    ]
+  },
+  "VUPShionMod:SuspendPower": {
+    "NAME": "Suspend",
+    "DESCRIPTIONS": [
+      "Your HP is set to 1 next turn.",
+      "Your HP is set to 1 in #b%d turns."
+    ]
+  },
+  "VUPShionMod:LightSpeedZonePower": {
+    "NAME": "Lightspeed Zone",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain [E] and 1 #yDexterity.",
+      "At the start of your turn, gain #b%d [E] and #b%d #yDexterity."
+    ]
+  },
+  "VUPShionMod:StagnationZonePower": {
+    "NAME": "Stagnation Zone",
+    "DESCRIPTIONS": [
+      "At the start of your turn, draw #b%d cards and apply 1 #yWeak to ALL enemies.",
+      "At the start of your turn, draw #b%d cards and apply 1 #yWeak to ALL enemies #b%d times."
+    ]
+  },
+  "VUPShionMod:AbsoluteZeroPower": {
+    "NAME": "Absolute Zero",
+    "DESCRIPTIONS": [
+      "Whenever you play a #yTho'om card, gain [E], draw a card and lose this effect by 1. NL This effect can be stacked #b3 times maximum."
+    ]
+  },
+  "VUPShionMod:KarmaPower": {
+    "NAME": "Proposition",
+    "DESCRIPTIONS": [
+      "For every #b2 Propositions you gain, add 1 #yParadox into your hand."
+    ]
+  },
+  "VUPShionMod:BlitzChantPower": {
+    "NAME": "Blitz Chant",
+    "DESCRIPTIONS": [
+      "The next #b%d card you play this turn costs 0.",
+      "The next #b%d cards you play this turn cost 0."
+    ]
+  },
+  "VUPShionMod:RuffleScalesPower": {
+    "NAME": "Ruffled Scales",
+    "DESCRIPTIONS": [
+      "Blocks #b%d damage. Does not #yfade at the end of turn. NL Whenever broken, gain #b%d #yProposition."
+    ]
+  },
+  "VUPShionMod:DamageDecreasePower": {
+    "NAME": "Decrease Damage",
+    "DESCRIPTIONS": [
+      "Decrease damage received by #b%d."
+    ]
+  },
+  "VUPShionMod:KynePeacePower": {
+    "NAME": "Kyne's Peace",
+    "DESCRIPTIONS": [
+      "At the start of your turn, ALL enemies lose #b50% of their #yStrength."
+    ]
+  },
+  "VUPShionMod:IntoOblivionPower": {
+    "NAME": "Into Oblivion",
+    "DESCRIPTIONS": [
+      "This turn, whenever you play an Attack, draw 1 card.",
+      "In #b%d turns, whenever you play an Attack, draw 1 card."
+    ]
+  },
+  "VUPShionMod:OdeOfImmortalityPower": {
+    "NAME": "Ode of Immortality",
+    "DESCRIPTIONS": [
+      "At the end of your turn, heal #b%d HP and #yexhaust ALL Status cards. NL Incompatible with #yOde #yof #yObliteration."
+    ]
+  },
+  "VUPShionMod:OdeOfObliterationPower": {
+    "NAME": "Ode of Obliteration",
+    "DESCRIPTIONS": [
+      "At the end of your turn, ALL enemies lose #b%d %% Max HP. NL Incompatible with #yOde #yof #yImmortality."
+    ]
+  },
+  "VUPShionMod:FoxyGotYouPower": {
+    "NAME": "Foxy's Got You!",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b%d #yMagia #yReload into your hand."
+    ]
+  },
+  "VUPShionMod:FoxyGotYouPower2": {
+    "NAME": "Foxy's Got You!+",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b%d #yMagia #yReload+ into your hand."
+    ]
+  },
+  "VUPShionMod:HeartscutePower": {
+    "NAME": "Heartscute",
+    "DESCRIPTIONS": [
+      "When you would die from taking damage, neutralize that damage and lose this effect."
+    ]
+  },
+  "VUPShionMod:UnleashPower": {
+    "NAME": "Unleash",
+    "DESCRIPTIONS": [
+      "This turn, #yStar #yWand does not funtion.",
+      "In #b%d yurns, #yStar #yWand does not funtion."
+    ]
+  },
+  "VUPShionMod:TimeFencePower": {
+    "NAME": "Time Fence",
+    "DESCRIPTIONS": [
+      "This turn, damage would deal is reduced by #b%d%%."
+    ]
+  },
+  "VUPShionMod:RecursionPower": {
+    "NAME": "Recursive",
+    "DESCRIPTIONS": [
+      "#y%s is added into your hand next turn.",
+      "#y%s is added into your hand after #b%d turns."
+    ]
+  },
+  "VUPShionMod:MeltdownPower": {
+    "NAME": "Meltdown",
+    "DESCRIPTIONS": [
+      "You can not gain any #yFusion this turn."
+    ]
+  },
+  "VUPShionMod:SpaceTimeCyclePower": {
+    "NAME": "History Loop",
+    "DESCRIPTIONS": [
+      "Whenever you shuffle your draw pile, gain #b%d #yInhibition."
+    ]
+  },
+  "VUPShionMod:SolarWindPower": {
+    "NAME": "Solar Wind",
+    "DESCRIPTIONS": [
+      "For every #yFusion you gain, apply #b%d #yElectrocute to ALL enemies."
+    ]
+  },
+  "VUPShionMod:OverloadFortressPower": {
+    "NAME": "Overdrive",
+    "DESCRIPTIONS": [
+      "You can't gain #yblock or #yshield from #yFunnel in this turn.",
+      "You can't gain #yblock or #yshield from #yFunnel in #b%d turns."
+    ]
+  },
+  "VUPShionMod:TimeStopBossPower": {
+    "NAME": "Suspend",
+    "DESCRIPTIONS": [
+      "You can't play any card in this turn.",
+      "You can't play any card in #b%d turns."
+    ]
+  },
+  "VUPShionMod:SuspendBossPower": {
+    "NAME": "Backfire",
+    "DESCRIPTIONS": [
+      "Hers HP is set to 1 next turn.",
+      "Hers HP is set to 1 in #b%d turns."
+    ]
+  },
+  "VUPShionMod:TimeEmblemPower": {
+    "NAME": "Time Emblem",
+    "DESCRIPTIONS": [
+      "Take #b20% less damage, deal #b20% more damage."
+    ]
+  },
+  "VUPShionMod:DrawReduceAmountPower": {
+    "NAME": "Draw Reduction",
+    "DESCRIPTIONS": [
+      "Draw #b%d less card next turn.",
+      "Draw #b%d less cards next turn."
+    ]
+  },
+  "VUPShionMod:RuinImpactPower": {
+    "NAME": "Ruin Impact",
+    "DESCRIPTIONS": [
+      "This turn, you will not take any damage except for damage from enemy #yAttacks."
+    ]
+  },
+  "VUPShionMod:DefenceMonsterPower": {
+    "NAME": "Defence",
+    "DESCRIPTIONS": [
+      "Reduce damage received by #yRita #yBernstein to #b1/%d . NL At least #b1."
+    ]
+  },
+  "VUPShionMod:GenocideCutterPower": {
+    "NAME": "Genocide Cutter",
+    "DESCRIPTIONS": [
+      "Whenever you play a #yPower ,you take #b50 damage #b%d times."
+    ]
+  },
+  "VUPShionMod:RaShoMonPower": {
+    "NAME": "RaShoMon",
+    "DESCRIPTIONS": [
+      "Whenever you deal damage to an enemy, gain #yShield of that much .",
+      "Whenever you deal damage to an enemy, gain #yShield #b%d times of that much."
+    ]
+  }
+}

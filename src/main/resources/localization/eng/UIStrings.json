@@ -1,0 +1,670 @@
+{
+  "VUPShionMod:ModSettings": {
+    "TEXT": [
+      "Use simple card UI",
+      "Disable title screen replacement",
+      "SFW switch",
+      "Disable some card animation effects",
+      "Disable Tutorial for Shion",
+      "Disable Tutorial for Wangchuan",
+      "Disable Tutorial for Liyezhu",
+      "Disable Tutorial for Eislu Ren",
+      "Disable Tutorial for Kuroisu",
+      "Disable Tutorial for Starry Queen",
+      "Disable Tutorial for Rita Bernstein",
+      "Disable Tutorial at the Fruit Stall",
+      "Disable Support Mod"
+    ]
+  },
+  "VUPShionMod:CharacterSelect": {
+    "TEXT": [
+      "Options"
+    ]
+  },
+  "VUPShionMod:EnduranceInitiationAction": {
+    "TEXT": [
+      "Copy",
+      " NL vup_shion_mod:Loading_Complete. Exhaust."
+    ]
+  },
+  "VUPShionMod:SelectCardToHandAction": {
+    "TEXT": [
+      " NL Exhaust.",
+      " Ethereal."
+    ]
+  },
+  "VUPShionMod:ChargeHelper": {
+    "TEXT": [
+      "Charge Bar",
+      "Charge Bar fills whenever you play #yFunnel cards or gain #yHyperdimensional #yLink. NL At full charge, release all energy and deal #b%d damage as well as fire all #yFunnels to ALL enemies."
+    ]
+  },
+  "VUPShionMod:VictoryScreen": {
+    "TEXT": [
+      "Bridge Burned",
+      "Victory against Plaga Mundi without any asisstance from the Droplet.",
+      "Reborn",
+      "Defeat Plaga Mundi.",
+      "Victory against Plaga Mundi without any asisstance from your comrades.",
+      "Defeat Ouroboros",
+      "True Ending"
+    ]
+  },
+  "VUPShionMod:ReadAction": {
+    "TEXT": [
+      "Add a copy of a card into your hand.",
+      "Add copies of ",
+      " cards into your hand."
+    ]
+  },
+  "VUPShionMod:CodexCardPatch": {
+    "TEXT": [
+      "Universal Codex"
+    ]
+  },
+  "VUPShionMod:BetterUpgradeAction": {
+    "TEXT": [
+      "Choose a card to upgrade."
+    ]
+  },
+  "VUPShionMod:UpgradePileAction": {
+    "TEXT": [
+      "Choose a card to upgrade."
+    ]
+  },
+  "VUPShionMod:OriShion": {
+    "TEXT": [
+      "Aggressive Armament: Maneuver\nsky-based weaponary and your funnels\nto crush your enemies.",
+      "Bonus: None",
+      "Difficulty: Standard",
+      "Acquisition Requirements: None"
+    ]
+  },
+  "VUPShionMod:BlueGiantShion": {
+    "TEXT": [
+      "Conqueror's Attire: Specialize in\nfunnels and win by versatility.",
+      "Bonus: At the start of your turn,\nadd 1 Funnel Matrix\ninto your hand.",
+      "Difficulty: Advance",
+      "Acquisition Requirements:\nVictory in the final battle."
+    ]
+  },
+  "VUPShionMod:AquaShion": {
+    "TEXT": [
+      "Midsummer Swimsuit: Stretch your\npotential to its limit for a spurt.",
+      "Bonus: You can activate\nSupernova Outburst\nonce per combat.",
+      "Difficulty: Transcendent",
+      "Acquisition Requirements:\nFail in Act 3 or further for twice."
+    ]
+  },
+  "VUPShionMod:MinamiShion": {
+    "TEXT": [
+      "Keeper of Arsenal: Logistic Support\nwinds up in combat.",
+      "but sure she’s got heaps of\nFunnels.",
+      "Difficulty: ?",
+      "Acquisition Requirements: True Ending.",
+      "Minami",
+      "Minami",
+      "Poor little fox, dining with forks. NL Pitched into crisis, crying water was the vox. "
+    ]
+  },
+  "VUPShionMod:GodShion": {
+    "TEXT": [
+      "Carmen Cantat: A beloved vessel\ndraws sympathy from higher places.",
+      "Friendship strengthens the\nbound and builds up sturdy mind.",
+      "Difficulty: Advanced",
+      "Acquisition Requirements: have 100 or more Hyperlink."
+    ]
+  },
+  "VUPShionMod:OriWangChuan": {
+    "TEXT": [
+      "Vampire's Shroud: Right hand\nfor sword and left hand for magic.",
+      "Bonus: Glans Magica in starter deck.",
+      "Difficulty: Standard",
+      "Acquisition Requirements: None"
+    ]
+  },
+  "VUPShionMod:PurityWangChuan": {
+    "TEXT": [
+      "Spectre Dance: Mastery over one\nsingle technique is enough to\ntake them all.",
+      "Bonus: In the Blink in starter deck.",
+      "Difficulty: Transcendent",
+      "Acquisition Requirements:\nFail in Act 3 or further for twice."
+    ]
+  },
+  "VUPShionMod:AquaWangChuan": {
+    "TEXT": [
+      "Midsummer Swimsuit: Warp the time\naround you to rain daggers\non your foes.",
+      "Bonus: Replace all Slide with Warp.",
+      "Difficulty: Advance",
+      "Acquisition Requirements:\nVictory in the final battle."
+    ]
+  },
+  "VUPShionMod:ChinaWangChuan": {
+    "TEXT": [
+      "Sapor Peregrinus: Wield telekinetic sword\nwith your magia and launch\nrelentless attacks.",
+      "Bonus: Peripheral circuit is planted to\navert Magiam Obruor.",
+      "Difficulty: Advance",
+      "Acquisition Requirements:\nDefeat Corrupt Heart with Mors Universi."
+    ]
+  },
+  "VUPShionMod:OriLiyezhu": {
+    "TEXT": [
+      "Priestess Duty: Bless the container,\nnot the soul fenced within.",
+      "Bonus: Mens mala in corpore sano.",
+      "Difficulty: Standard",
+      "Acquisition Requirements: None"
+    ]
+  },
+  "VUPShionMod:OriEisluRen": {
+    "TEXT": [
+      "Biyuki Gift: Equipped with the Wing\nComposite Shield developed by Shion",
+      "Bonus: Greatly improved defensive\ncapabilities",
+      "Difficulty: Standard",
+      "Acquisition Requirements:\nAchieve True Ending"
+    ]
+  },
+  "VUPShionMod:OriKuroisu": {
+    "TEXT": [
+      "Wear the Night: Stars shine\nbrightly in the darkness, from a wand.",
+      "Bonus: Feel the time and space\nwith your touch.",
+      "Difficulty: Standard",
+      "Acquisition Requirements: None"
+    ]
+  },
+  "VUPShionMod:OriStarryQueen": {
+    "TEXT": [
+      "Wear the Night: Stars shine\nbrightly in the darkness, from a wand.",
+      "Bonus: Feel the time and space\nwith your touch.",
+      "Difficulty: Standard",
+      "Acquisition Requirements: None"
+    ]
+  },
+  "VUPShionMod:OriRita": {
+    "TEXT": [
+      "Wear the Night: Stars shine\nbrightly in the darkness, from a wand.",
+      "Bonus: Feel the time and space\nwith your touch.",
+      "Difficulty: Standard",
+      "Acquisition Requirements: None"
+    ]
+  },
+  "VUPShionMod:PileCostForTurnZeroAction": {
+    "TEXT": [
+      "Choose a card to set its cost to 0 this turn."
+    ]
+  },
+  "VUPShionMod:SansMeter": {
+    "TEXT": [
+      "Sanity",
+      "Whenever you slay a non-minion enemy, lose #b3 #ySanity. Whenever you #yrest at Restsites, gain #b40 #ySanity and choose to obtain 1 #yPrayer card.",
+      " NL NL While #ySanity is full, gain #b10 Max HP at the start of each combat. Else, gain #b1 Max HP instead if #ySanity is above #b50.",
+      " NL NL While #ySanity is below #b50, gain #b3 #yVulnerable at the start of combat. NL Whenever you slay a non-minion enemy, lose #b1 Max HP.",
+      " NL NL While #ySanity is below #b30, gain #b3 #yWeak at the start of combat. NL Whenever you slay a non-minion enemy, lose #b4 more Max HP. Whenever you gain #ySinful, gain #b1 more.",
+      "Not enough Sanity"
+    ]
+  },
+  "VUPShionMod:Gallery": {
+    "TEXT": [
+      "Gallery",
+      ""
+    ]
+  },
+  "VUPShionMod:UpgradeDeckAction": {
+    "TEXT": [
+      "Choose a card to upgrade.",
+      "Choose %d cards to upgrade."
+    ]
+  },
+  "VUPShionMod:SelectSrcCardToHandAction": {
+    "TEXT": [
+      "Choose a Power card to add into your hand."
+    ]
+  },
+  "VUPShionMod:FinFunnelCharge": {
+    "TEXT": [
+      "Matrix Charge",
+      "Current Charge: #b%d . NL NL Upon reaching #b16, lose #b16 charge and summon #b8 #yAuto #yFunnel to launch an attack and trigger their passive ability.",
+      " NL NL #yAuto #yFunnel: NL Random replica of your #rNon-Matrix #yFunnels."
+    ]
+  },
+  "VUPShionMod:SwardCharge": {
+    "TEXT": [
+      "Magia Blade",
+      " #yMagia #yCombo: #b%d/ #b4. NL Whenever the counter is filled, play a NL #yThundersteel with no #yStiffness. NL Clear all #yCombo and #pMagia #yLoad. NL For #reach different #yAttack you play, NL gain #b1 #yCombo. NL Lose all #yCombo at the end of your turn. NL When the counter reaches #b3, gain #b1 #yCor #yCorGladii.",
+      " NL NL #pMagia #pLoad: #b%d(%d)/ #b3: NL Each #yLoad you have #yupgrades the #yThundersteel played by #yMagia #yCombo for #yonce. NL For every #b3 #yMagiam #yObruor you gain, gain #b1 #pMagia #pLoad."
+    ]
+  },
+  "VUPShionMod:ShionFinFunnelSwitch": {
+    "TEXT": [
+      "Switch Funnel",
+      "You can manually select #yFunnel to be activated for its passive ability. NL For each energy cost, you may switch #yFunnel."
+    ]
+  },
+  "VUPShionMod:SingleCardViewPopup": {
+    "TEXT": [
+      "Summon"
+    ]
+  },
+  "VUPShionMod:WingShield": {
+    "TEXT": [
+      "Winged Construct",
+      "current damage can prevent: #b%d/%d . Recycle: #b%d/3. NL Gain #b1 #yRecharge when the Recycle meter is filled. NL NL Current Recharge: #b%d/%d. NL You may lose up to #b7 #yRecharge from one single attack.",
+      "Not Enough Recharge!"
+    ]
+  },
+  "VUPShionMod:DiscardAnyCardAction": {
+    "TEXT": [
+      "Choose to discard any card"
+    ]
+  },
+  "VUPShionMod:RuinGuardianStanceAction": {
+    "TEXT": [
+      "Choose to exhaust 2 cards and play one each of their copies each turn. "
+    ]
+  },
+  "VUPShionMod:LightArmorStanceAction": {
+    "TEXT": [
+      "Choose to exhaust 2 cards and play one each of their copies each turn. "
+    ]
+  },
+  "VUPShionMod:AbstractPlayerMinion": {
+    "TEXT": [
+      "Aggressive",
+      "This ally intends to NL #yattack for #b",
+      " damage for #b",
+      " times.",
+      "This ally intends to NL #yattack for #b",
+      " damage.",
+      "Aggressive",
+      "This ally intends to #yBuff and #yattack for #b",
+      " times.",
+      "This ally intends to #yBuff and #yattack for #b",
+      "Strategic",
+      "This ally intends to apply #yDebuff to you and #yattack for #b",
+      "This ally intends to Block and #yattack for #b",
+      "Defensive",
+      "Scared",
+      "Magical",
+      "Asleep",
+      "Stunned",
+      "Unknown",
+      "This ally intends to apply #yBuff to itself.",
+      "This ally intends to apply #yDebuff to you.",
+      "This ally intends to apply a powerful #yDebuff to you.",
+      "This ally intends to #yBlock.",
+      "This ally intends to #yBlock and apply #yDebuff to you.",
+      "This ally intends to #yBlock and apply #yBuff to itself.",
+      "This ally intends to #yescape.",
+      "This ally intends to cast a mysterious #ySpell.",
+      "This ally is asleep.",
+      "This ally is #yStunned.",
+      "This ally's intention is #yunknown. (not to attack)",
+      "Block"
+    ]
+  },
+  "VUPShionMod:NeowEventTalkPatch": {
+    "TEXT": [
+      "Loading Complete~ Welcome to the battlefield.",
+      "Select...",
+      "Wish you good hunting!"
+    ]
+  },
+  "VUPShionMod:ShionBasePatches": {
+    "TEXT": [
+      "Play in Special Mode"
+    ]
+  },
+  "VUPShionMod:ShionMainMenuPanelButton": {
+    "TEXT": [
+      "Training Ground",
+      "Fight the shadows in this virtual reality.",
+      "Achieve the \"True Ending\" in a standard run."
+    ]
+  },
+  "VUPShionMod:CardPreviewUpgradePatches": {
+    "TEXT": [
+      "Multiple Upgrade"
+    ]
+  },
+  "VUPShionMod:SynchroOption": {
+    "TEXT": [
+      "Synchro",
+      "Increase Synchro counter by 3."
+    ]
+  },
+  "VUPShionMod:ExhaustToApplySinAction": {
+    "TEXT": [
+      "Exhaust a card to apply Sinful."
+    ]
+  },
+  "VUPShionMod:DrawPileLoadCardAction": {
+    "TEXT": [
+      "Grant Quick Boot effect on the cards you choose."
+    ]
+  },
+  "VUPShionMod:LoadMod": {
+    "TEXT": [
+      " NL vup_shion_mod:Quick\u00a0Boot."
+    ]
+  },
+  "VUPShionMod:PlayDeckCardAction": {
+    "TEXT": [
+      "Play duplications of the cards.",
+      ""
+    ]
+  },
+  "VUPShionMod:SingularityAction": {
+    "TEXT": [
+      "Exhaust cards to increase the effects."
+    ]
+  },
+  "VUPShionMod:SkillTreeOpenButton": {
+    "TEXT": [
+      "Spare Points\n ",
+      "Nebula System",
+      "Strengthen your potential with intense fights."
+    ]
+  },
+  "VUPShionMod:ShionSkillTreeData": {
+    "TEXT": [
+      "Output Optimization",
+      "Crossfire",
+      "Algorithm Upgrade",
+      "Penetrate",
+      "AI Specialization",
+      "Weak Spot Analysis",
+      "Incising Implement",
+      "Pursuing Module",
+      "HyperLink Circuit",
+      "Construct Dissection",
+      "CMOD Enhancement",
+      "Algorithm Upgrade+",
+      "Core Iteration",
+      "Quick Deployment",
+      "Smart Core",
+      "Dragonlancer System",
+      "Off-Protocol Refit",
+      "Attack Interceptor",
+      "Defense Matrix",
+      "Algorithm Upgrade++",
+      "Distractor",
+      "Sentinel",
+      "Shield Generator",
+      "Collaborative Shield",
+      "Defense Specialization"
+    ],
+    "EXTRA_TEXT": [
+      "Increase active damage of #yFunnnels by %d.",
+      "Increase all damage dealt by #b%d%%.",
+      "Start with %d more #yFunnel. Gain 1 #ySpare #ySkill Points. ",
+      "Gain turn number of #yMatrix #yRecharge at start of each turn. Start with 1 less #yFunnel.",
+      "At the start of your turn, trigger #yAuto #yFunnel. #yMatrix #yCharge gained from #yFunnels is decreased by %d.",
+      "Apply 1 #yVulnerable to ALL enemies at start of each turn.",
+      "Apply #b%d #yBleeding to ALL Enemies at start of each turn.",
+      "Apply #b%d #yPursued to ALL Enemies at start of each turn.",
+      "At the start of your turn, gain %d #yHyperlink.",
+      "Apply #b%d #yStructure #yDissection to ALL enemies at start of each turn.",
+      "At start of every #b%d turns, gain 1 #yReins #yof #yWar.",
+      "Start with %d more #yFunnel. Gain 1 #ySpare #ySkill Points.",
+      "Gain #b%d #ySpare #ySkill Points.",
+      "At the start of your turn, gain %d #yMatrix #yRecharge.",
+      "Apply turn number of #yBleeding to ALL enemies at start of each turn.",
+      "Start with %d more #yFunnel. Increase active damage of #yFunnnels by %d. Increase #yBlock gain by #yFunnels by %d.",
+      "Increase #yPursued #yFunnnels by #b%d. (Can be upgraded any number of times)",
+      "Increase #yBlock granted by #yFunnels by %d.",
+      "Decrease all damage taken by #b%d%%.",
+      "Start with %d more #yFunnel. Gain 1 #ySpare #ySkill Points.",
+      "Apply 1 #yWeak to ALL enemies at start of each turn.",
+      "Whenever you lose #yBlock, gain #yShield #b%d%% of that much.",
+      "Increase #yShield granted by #yFunnels by #b%d.",
+      "Increase #yShield granted by #yFunnels by #b%d. Start with 1 less #yFunnel.",
+      "Increase #yBlock granted by #yFunnels by %d. Decrease active damage of #yFunnels by 1.",
+      "At start of every turn, gain 1 #yReins #yof #yWar."
+    ]
+  },
+  "VUPShionMod:WangChuanSkillTreeData": {
+    "TEXT": [
+      "Core Structure",
+      "Agility",
+      "Reacting Force",
+      "Magia Circulation",
+      "Poised",
+      "Combo",
+      "Cutting Edge",
+      "Rapid Reflex",
+      "Master in Seclusion",
+      "Apex of the Art"
+    ],
+    "EXTRA_TEXT": [
+      "Gain %d #yspare skill points.",
+      "Gain %d #yEase.",
+      "You deal %d%% less damage with Attacks. Whenever you do, gain #yBlock %d%% of the damage dealt.",
+      "At the start of your turn, gain 1 Energy for every %d #yMagiam #yObruor you have.",
+      "You lose #yCor #yGladii by %d%% less each turn.",
+      "If you play %d different Attacks in a row, draw a random Attack.",
+      "Whenever you draw an Attack, gain %d #yCor #yGladii.",
+      "Whenever you draw an Attack, gain %d temporary #yDexterity.",
+      "If you play different Attacks in a row, gain %d #yCor #yGladii.",
+      "Choose %d Attacks that can not be further upgraded and grant them 1 #yIntensa."
+    ]
+  },
+  "VUPShionMod:LiyezhuSkillTreeData": {
+    "TEXT": [
+      "Miracle",
+      "Laudation",
+      "Down to Earth",
+      "Mundanity",
+      "Conviction",
+      "Go Astray",
+      "Heavenly Wrath",
+      "Profanity",
+      "Ways of Being",
+      "Say the Prayers",
+      "Fanaticism",
+      "High Knowledge",
+      "Blind Obedience",
+      "Ways of Everything",
+      "Inner Self",
+      "Sacred Heart",
+      "Penance",
+      "Divine Affinity",
+      "Saint",
+      "Semper Gloriosa"
+    ],
+    "EXTRA_TEXT": [
+      "At the start of each combat, add %d #yMiracle into your hand.",
+      "#yPrayer effects last %d more turns.",
+      "Whenever you exhaust a #yMiracle, draw %d cards.",
+      "Whenever you exhaust a #yMiracle, gain %d #yPsychic.",
+      "Whenever you enter #yJudging #yStance, apply %d #ySinful to ALL enemies.",
+      "At the start of your turn, lose 1 #ySanity and gain %d #yStrength.",
+      "Whenever you play a #yPrayer card, apply %d #ySinful to a random enemy.",
+      "At the start of your turn, lose 1 #ySanity and apply %d #ySinful to ALL ENTITIES.",
+      "For every enemy you encounter in a combat, gain %d #ySanity.",
+      "While in #yPraying #yStance, decrease damage taken by %d%%.",
+      "At the start of your turn, lose 5%%HP and gain %d #ySanity.",
+      "Whenever you play a #yPrayer card, heal %d HP.",
+      "At the start of your turn, lose %d%% HP. Gain immunity against #yWeak, #yVulnerable, #yConfused and #yFrail.",
+      "Whenever you slay an Elite or Boss enemy, gain %d #ySanity.",
+      "Whenever you play a #bPower card, gain %d #ySanity.",
+      "At the end of combat, gain %d Max HP.",
+      "Whenever you lose HP, gain #yShield %d%% of that loss.",
+      "You no longer lose #ySanity and HP from cards.",
+      "Whenever you trigger #yPunitive, heal %d HP.",
+      "At the start of your turn, gain %d #ySanity and apply %d #yPunitive to ALL enemies.(Can be upgraded any number of times.)"
+    ]
+  },
+  "VUPShionMod:EisluRenSkillTreeData": {
+    "TEXT": [
+      "Mobility Amplifier",
+      "Recoil Recycling",
+      "Core Output",
+      "Attack Formation",
+      "High Energy Field",
+      "Drive Optimization",
+      "Energy Utilization",
+      "Take the Lead",
+      "Reserve Energy",
+      "Stance Management",
+      "Flexible Wings",
+      "Core Output",
+      "Core Iteration",
+      "Recharging Protocol",
+      "Bound Circuit",
+      "Worldtree System",
+      "Off-Protocol Refit",
+      "Defense Amplification",
+      "Dynamic Defense",
+      "Core Output",
+      "Damage Management",
+      "Front Stronghold",
+      "Sentinel",
+      "Garrison Formation",
+      "Stagnant Force Field"
+    ],
+    "EXTRA_TEXT": [
+      "For every %d cards you draw, gain 1 #yRecycle.",
+      "Foe every %d Attacks you play, gain 1 #yRecycle.",
+      "At the start of your turn, gain 1 #yConstruct #yRecharge.",
+      "Whenever you gain #yCover, launch a collaborative attack.",
+      "Whenever #yConstruct #yRecharge absorbs damage, deal damage that much back. At the start of your turn, lose #yConstruct #yRecharge.",
+      "For every %d Skills you play, gain 1 #yRecycle.",
+      "For every %d #yRecycle you gain, gain 1 #yRecycle.",
+      "Whenever you lose #yConstruct #yRecharge from cards, gain %d temporary #yStrength.",
+      "Start each combat with %d #yConstruct #yRecharge.",
+      "Whenever you switch #yStance, gain %d #yConstruct #yRecharge.",
+      "Start each combat with %d #yDexterity.",
+      "At the start of your turn, gain %d #yConstruct #yRecharge.",
+      "Gain 4 #yspare skill points.",
+      "Whenever you play a #bPower, gain %d #yConstruct #yRecharge.",
+      "While the #yElf is present, gain %d #yArtifact at the start of your turn.",
+      "At the start of your turn, gain %d #yConstruct #yRecharge and 5 temporary #yDexterity.",
+      "At the start of your turn, gain %d #yImpact #yAbsorption. (Can be upgraded any number of times.)",
+      "Start each combat with %d #yImpact #yAbsorption.",
+      "Whenever you lose #yConstruct #yRecharge, gain %d #yBlock.",
+      "At the start of your turn, gain %d #yConstruct #yRecharge.",
+      "You lose #yImpact #yAbsorption by %d%% less each turn.",
+      "While you have #yCover, take %d%% less damage.",
+      "Whenever you gain #yConstruct #yRecharge, gain %d #yImpact #yAbsorption.",
+      "Whenever you gain #yCover, gain %d #yImpact #yAbsorption.",
+      "Whenever you lose #yConstruct #yRecharge, gain 1 #yImpact #yAbsorption. At the start of your turn, lose %d #yConstruct #yRecharge."
+    ]
+  },
+  "VUPShionMod:KuroisuSkillTreeData": {
+    "TEXT": [
+      "Cornerstone",
+      "Joined Circuit",
+      "Steadiness",
+      "Reins",
+      "Spare in Store",
+      "Astrosphere",
+      "Tidal Force",
+      "Circumfluence",
+      "Focus",
+      "Quantum Leap",
+      "Vacuum Energy",
+      "Quantum Sea"
+    ],
+    "EXTRA_TEXT": [
+      "Start each combat with #yRuffled #yScales %d%% of your Max HP.",
+      "Whenever you apply #yElectrocute, apply %d more.",
+      "For every %d turns, gain 1 #yIntangible.",
+      "Whenever you gain #yInhibition, gain %d more. Whenever you apply, apply %d less.",
+      "For every %d turns, gain 1 #yFusion.",
+      "Gain %d #yspare skill points.",
+      "For every %d turns, apply 1 #yVulnerable to ALL enemies %d times.",
+      "If you have 3 or more #yFusion, draw %d cards.",
+      "Damage increased from #yFusion is increased by %d%%.",
+      "Whenever you exhaust a card, you have %d%% chance to gain 1 #yBlur and 1~%d #ytemporary Dexterity. (Can be upgraded any number of times.)",
+      "At the start of turn %d, gain 1 #yAbsolute #yZero.",
+      "Whenever you play a card, you have %d%% chance to play it twice."
+    ]
+  },
+  "VUPShionMod:TutorialScreen": {
+    "TEXT": [
+      "General Mechanic: Skill Tree",
+      "After finishing a battle, click the #yIcon to enter #ySkill #yTree UI. You may spend skill points here to obtain permanent buffs.",
+      "Skill points are gained by defeating Elite and Boss enemies.",
+      "Try hard to hunt down powerful enemies as to develop the strength of characters.",
+      "Exclusive Mechanic: Funnels",
+      "Every single Funnel deals active damage at the start of your turn as well as applying effects based on its type.",
+      "The active damage and the effects are augmented as you invest skill points in certain skills.",
+      "Exclusive Mechanic: Matrix Funnel",
+      "Upon filling up 16 #yMatrix #yCharges, 8 times of Funnel attacks are launched.",
+      "#yMatrix #yCharges are gained from playing certain cards and the effects of certain powers.",
+      "Try to activate the Funnel as much as possible.",
+      "Exclusive Mechanic: Stiffness",
+      "Stiffness is gained from playing certain Attacks. Upon reaching 4, you turn is ended.",
+      "Stiffness may be alleviated by playing certain cards.",
+      "Exclusive Mechanic: Magiam Obruor",
+      "Magiam Obruor is gained from playing certain cards, mostly Magia themed. You lose 1 Energy next turn for each of Magiam Obruor you have this turn.",
+      "This negative impact may be alleviated as you invest skill points in certain skills.",
+      "Try to regulate the Stiffness and Magiam Obruor you gained, and always calculate before playing such cards.",
+      "Exclusive Mechanic: Stance",
+      "In #yPraying #yStance, you gain buffs for several turns by playing #yPrayer cards.",
+      "In #yJudging #yStance, special cards are added into your hand by playing #yPrayer cards.",
+      "Try to assess the situation for entering #yJudging #yStance as to obtain different helps from #yPrayer cards.",
+      "Exclusive Mechanic: Construct Recharge",
+      "Each #yConstruct #yRecharge blocks incoming damage. The amount of blockable damage is augmented with #yImpact #yAbsorption.",
+      "#yConstrcut #yRecharge is restored with #yRecycle, which may be gained by playing certain cards.",
+      "Exclusive Mechanic: Summon",
+      "An Elf companion is summoned by playing a certain card.",
+      "Until the Elf perishes, all incoming damage is targeted towards it. You may protect the Elf by granting #yCover, which may be gained by playing certain cards.",
+      "Try to restore #yConstruct #Recharge, support the Elf and in doing so, have the Elf supporting you back.",
+      "Exclusive Mechanic: Fusion",
+      "#yFusion is accumulated by playing certain cards. Upon reaching 3, add 1 #yTime #yRift, a special Attack, into your hand.",
+      "Once you have played #yTime #yRift for twice, add 1 #yParadox, a powerful Attack, into your hand.",
+      "Try to gain #yFusion as much as you can as to smash the enemies with powerful attacks."
+    ],
+    "EXTRA_TEXT": [
+      "Tutorial",
+      "(Page ",
+      "/%d)",
+      "Don't show this again",
+      "Confirm"
+    ]
+  },
+  "VUPShionMod:KuroisuPanel": {
+    "TEXT": [
+      "Stellar Staff Panel",
+      "Current you have:",
+      " NL #b%d #yFusion ",
+      " NL #yCooldown ",
+      " NL #b%d #yProposition ",
+      " NL #b%d #yRuffled #yScales ",
+      " NL #b%d #yAbsolute #yZero",
+      ",",
+      "."
+    ]
+  },
+  "VUPShionMod:HideUIPatches": {
+    "TEXT": [
+      "Hide Panel",
+      "ESC to return"
+    ]
+  },
+  "VUPShionMod:RestOptionPatch": {
+    "TEXT": [
+      "Pray"
+    ]
+  },
+  "VUPShionMod:Groove": {
+    "TEXT": [
+      "C Groove",
+      "A Groove",
+      "P Groove",
+      "S Groove",
+      "N Groove",
+      "K Groove",
+      "EX Groove"
+    ],
+    "EXTRA_TEXT": [
+      "Current amount: #b%d /%d NL NL This Type has more max amount. She prefer to use max finsher when she has max Groove.",
+      "Current amount: #b%d /%d NL NL She may use #b1000 Groove to end your turn and intent to defend when she Attacked.",
+      "Current amount: #b%d /%d NL NL She prefer to use max finsher when she has max Groove.",
+      "Current amount: #b%d /%d NL NL She gain #b200 Grrove at the end of each turn. She may intent #yCharge to maximun Groove. ",
+      "Current amount: #b%d /%d NL NL She may use Groove to increse next #b8 damage intent and she can't Groove at that monent.",
+      "Current amount: #b%d /%d NL NL Incease damdage to #b115%% . NL She can only gain Groove when be damaged. NL She deal #b150%% damage in #b4 turns after she maximun Groove.",
+      "Current amount: #b%d /%d NL NL She has almost All standard Groove effect. Try the best you can!"
+    ]
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "VUPShionMod:SpireHeart_Shion": {
+    "NAME": "Spire Heart",
+    "DESCRIPTIONS": [
+      "NL You imbue your Funnels with all energy..."
+    ],
+    "OPTIONS": [
+    ]
+  },
+  "VUPShionMod:SpireHeart_WangChuan": {
+    "NAME": "Spire Heart",
+    "DESCRIPTIONS": [
+      "NL You enchant your blade with your remaining magia..."
+    ],
+    "OPTIONS": [
+    ]
+  },
+  "VUPShionMod:SpireHeart_Liyezhu": {
+    "NAME": "Spire Heart",
+    "DESCRIPTIONS": [
+      "NL Feeling ecstatic pulse, you hold the last trace of sanity to say the prayer..."
+    ],
+    "OPTIONS": [
+    ]
+  },
+  "VUPShionMod:SpireHeart_EisluRen": {
+    "NAME": "Spire Heart",
+    "DESCRIPTIONS": [
+      "NL You burst the power of Winged Construct to the maximum..."
+    ],
+    "OPTIONS": [
+    ]
+  },
+  "VUPShionMod:SpireHeart_Kuroisu": {
+    "NAME": "Spire Heart",
+    "DESCRIPTIONS": [
+      "NL You triggered a powerful magical explosion..."
+    ],
+    "OPTIONS": [
+    ]
+  },
+  "VUPShionMod:SpireHeart_StarryQueen": {
+    "NAME": "Spire Heart",
+    "DESCRIPTIONS": [
+      "NL You detonated all the magic above the target..."
+    ],
+    "OPTIONS": [
+    ]
+  },
+  "VUPShionMod:SpireHeart_Rita": {
+    "NAME": "Spire Heart",
+    "DESCRIPTIONS": [
+      "NL You pour out the dark power of your whole body..."
+    ],
+    "OPTIONS": [
+    ]
+  },
+  "VUPShionMod:Newborn": {
+    "NAME": "A Message",
+    "DESCRIPTIONS": [
+      "As you are about to depart, a message comes to you.",
+      "Finally, the last spot where Liyezhu's traces end is located. Will it turn out to be another echo of your futile fantasy?",
+      "#r@The@ #r@voice@ #r@of@ #r@yourself@ #r@eeriely@ #r@worms@ #r@into@ #r@your@ #r@head@ #r@out@ #r@of@ #r@the@ #r@complete@ #r@void.@ NL NL \"Ready yourself and come here.\"she says. NL \"I was, am and will be you.\" NL \"They joined into a Gordian knot...maybe it is you to be counted on to untie...at least for this time?\" NL \"Ouroboros is waiting.\""
+    ],
+    "OPTIONS": [
+      "[Proceed] ...",
+      "[Not This Time!] Battle Ahead. #gObtain Anastasia Droplet.",
+      "[Return Home]",
+      "[LOCKED] Victory over Plaga Mundi as Shion, Wangchuan and Liyezhu is required.",
+      "[Deja Vu] As your are about to respond, a spate of buzzing in your ear interrupted.",
+      "[To the scene] Anastasia, set the teleporting coordinates please. (extremely dangerous)",
+      "[To the former stage] I seem to have hallucination..."
+    ]
+  },
+  "VUPShionMod:Contact": {
+    "NAME": "Unexpected Contact",
+    "DESCRIPTIONS": [
+      "As you are about to depart, a message comes to you.",
+      "Necessary information is gathered and analyzed as you leave the Spire to its mayhem along your ascension. Revelations about the creators of this towering sprawl unfolds, and their coordinates too, with an expectation of numerous hostile creatures' presence.",
+      "#r@The@ #r@voice@ #r@of@ #r@yourself@ #r@eeriely@ #r@worms@ #r@into@ #r@your@ #r@head@ #r@out@ #r@of@ #r@the@ #r@complete@ #r@void.@ NL NL \"Ready yourself and come here.\"she says. NL \"I was, am and will be you.\" NL \"They joined into a Gordian knot...maybe it is you to be counted on to untie...at least for this time?\" NL \"Ouroboros is waiting.\""
+    ],
+    "OPTIONS": [
+      "[Proceed] ...",
+      "[Fists Can Talk!] Battle Ahead. #gObtain Tracking Beacon.",
+      "[Return Home]",
+      "[LOCKED] Victory over Plaga Mundi as Shion, Wangchuan and Liyezhu is required.",
+      "[Deja Vu] As your are about to respond, a spate of buzzing in your ear interrupted.",
+      "[To the scene] Anastasia, set the teleporting coordinates please. (extremely dangerous)",
+      "[To the former stage] I seem to have hallucination..."
+    ]
+  },
+  "VUPShionMod:Prophesy": {
+    "NAME": "Omens of Unknown",
+    "DESCRIPTIONS": [
+      "The instigating unrest is now gradually settling...But somehow it gives you the inkling of something far worse, the doom that entwines you all...",
+      "You have seen it once, and you know where the target is.",
+      "#r@The@ #r@voice@ #r@of@ #r@yourself@ #r@eeriely@ #r@worms@ #r@into@ #r@your@ #r@head@ #r@out@ #r@of@ #r@the@ #r@complete@ #r@void.@ NL NL \"Ready yourself and come here.\"she says. NL \"I was, I am and I will be you.\" NL \"They joined into a Gordian knot...maybe it is you to be counted on to untie...at least for this time?\" NL \"Ouroboros is waiting.\""
+    ],
+    "OPTIONS": [
+      "[Proceed] ...",
+      "[Engage!] Battle Ahead. #gObtain Unknown Dust.",
+      "The body is too exhausted to go on...",
+      "[LOCKED] Victory over Plaga Mundi as Shion, Wangchuan and Liyezhu is required.",
+      "[Deja Vu] As your are about to respond, a spate of buzzing in your ear interrupted.",
+      "[To the scene] Anastasia, set the teleporting coordinates please. (extremely dangerous)",
+      "[To the former stage] I seem to have hallucination..."
+    ]
+  },
+  "VUPShionMod:TrainingTest": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "",
+      "The basic training has been completed,do you want to enter the next Act?",
+      "In the end,you will face the Worm of the Time, which is extremely difficult. NL needs to fully master and give play to its own capabilities, please be ready."
+    ],
+    "OPTIONS": [
+      "[Proceed] ...",
+      "[Enter] I want to challenge a difficult project. #gGain #gWarpath.",
+      "I want to have a rest first",
+      "[LOCKED] Victory over Plaga Mundi as Shion, Wangchuan and Liyezhu is required.",
+      "[Proceed] I want to challenge the final project",
+      "[Proceed] I am ready! (extremely dangerous)",
+      "[Cancel] I still need some adjustments"
+    ]
+  },
+  "VUPShionMod:TimeEvent": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "The observation of the target universe is subject to unknown interference, and the navigation task will be handed over to the Spacetime Dragons",
+      "The existence of predictive ability is currently the only source of information, and it is up to you to decide whether the task will continue...",
+      "Say hello to me at this moment. NL Due to the presence of giant space-time kinks ahead, we have fallen into multiple spatiotemporal loops NL We will do our best to maintain the probability cloud until it collapses towards the safe world line NL If unsure, please forward the consultation to the next spatiotemporal snapshot."
+    ],
+    "OPTIONS": [
+      "[Proceed] Understand, leave it to me~",
+      "[Enter] The prophecy shows that the risk is controllable. #gGain #yTime #yCrystal.",
+      "I want to have a rest first",
+      "[LOCKED] Victory over Plaga Mundi as Shion, Wangchuan and Liyezhu is required.",
+      "[Prophecy illusion] These are...myself?",
+      "[Proceed] I will unravel the maze of time and space (extremely dangerous)",
+      "[Cancel] I will transmit my memory back to the past"
+    ]
+  },
+  "VUPShionMod:CroissantEvent": {
+    "NAME": "Croissant",
+    "DESCRIPTIONS": [
+      "Something resembling a dragon's horn catches your attention. NL No...no dragon's horn, upon closer inspection it is a croissant on the floor.",
+      "Just when you pick it up, you hear a voice laughing \"Fus Roh Dah!\" full of playful implication. Before you could think, you are carried away by a sudden thrust of wind and lose consciousness...",
+      "You just obtained a croissant to replenish energy. (It has a name #yKuroisu written on it. Seems you may have left someone hungry, much probably...)",
+      "You are more of a rice person who hates the crumbs you may leave about while eating breads, so goodbye."
+    ],
+    "OPTIONS": [
+      "[Pick It Up] #r25%: Lose 15 HP, #g75%: Obtain Croissant.",
+      "[Ignore]",
+      "[Leave]"
+    ]
+  },
+  "VUPShionMod:LostEquipment": {
+    "NAME": "Lost Equipment",
+    "DESCRIPTIONS": [
+      "On your ascension, you find a lost equipment on the battlefield. It is all worn out and will not function until you do something about it.",
+      "You leave this place."
+    ],
+    "OPTIONS": [
+      "[Stitch] #rLose 100 gold. #gObtain Optical Camouflage.",
+      "[Locked] No less than 100 gold is required.",
+      "[Repair] #rRemove a random card. #gObtain Sniperscope.",
+      "[Locked] No less than 1 card is required.",
+      "[Leave]"
+    ]
+  },
+  "VUPShionMod:BreakAppointment": {
+    "NAME": "Gu~gu~gu!",
+    "DESCRIPTIONS": [
+      "You encounter a pigeon holding a pen in its beak. It's staring right straightly at you without showing any intention. What do you do?",
+      "The pigeon draws something with the pen in its beak and flees away with the gold, leaving you to the mysterious patterns on the ground.",
+      "The pigeon suddenly snatches the gold from your hand and vanishes into the sky before you could even react.",
+      "Hmmm...Coming soon, no rush!"
+    ],
+    "OPTIONS": [
+      "[Feed] #rLose 50 gold. #g50%:Choose and obtain a #yKuroisu card.",
+      "[Locked] No less than 50 gold is required.",
+      "[Gu!]",
+      "[Leave]",
+      "Chose a card add into your deck"
+    ]
+  },
+  "VUPShionMod:LakeAmidst": {
+    "NAME": "Lake on the Spire",
+    "DESCRIPTIONS": [
+      "The stroke of moonlight and the susurrus of the breeze has set your mind empty, as your sight returns, a vast mirror of water lays bare in your eyes.",
+      "You decide to avail yourself of this scenery. A nap at ease, maybe?",
+      "Driven by your curiosity that is readily tickled by its underwater scenery, you segregate the water into two, letting out a gorge with a shoal of fish schooling aside the crack. ",
+      "You meander about the mid-lake to take a closer inspection. You rove above the water, and by your patter, the reflections of the moon gently fluctuate splintered.",
+      "Maybe next time..."
+    ],
+    "OPTIONS": [
+      "[Camp] #gGain 10 Max HP.",
+      "[View Underwater] #gObtain 1 Sever Current.",
+      "[To the Mid-lake] #rRemove all Slide and Multi Slide, #gObatin 3 Moonstrider.",
+      "[Locked] Slide or Multi Slide is required.",
+      "[Leave]"
+    ]
+  },
+  "VUPShionMod:BoundaryOfChaos": {
+    "NAME": "Boundary of Chaos",
+    "DESCRIPTIONS": [
+      "You trudge into a remnant in an enormous disorder of the elements, where the odor of an antediluvian war still lingers. Peculiar hue condenses in the atomsphere as you contrive to sense its origin.",
+      "As you try to feel it with spiritual power, an indistinguishable element slips into your strength.",
+      "As you try to trap it with spiritual power, an indistinguishable element joins your mind, manifesting great activity.",
+      "As you try to manupulate it with spiritual power, an indistinguishable element stampedes and ultimately abides in you, fueling you with a motley yet immense source of power.",
+      "Maybe next time..."
+    ],
+    "OPTIONS": [
+      "[Feel It] #gObtain 1 Codex Chai.",
+      "[Locked] Any universal Codex is required.",
+      "[Trap It] #gObtain 1 upgraded Codex Chai.",
+      "[Locked] Any upgraded universal Codex is required.",
+      "[Manupulate It] #gObtain 1 Chaos Intensus",
+      "[Locked] Any twiced upgraded universal Codex is required.",
+      "[Leave]"
+    ]
+  },
+  "VUPShionMod:DaysGoneBy": {
+    "NAME": "Sweet Memories",
+    "DESCRIPTIONS": [
+      "You see debris of what seems to be your memory being placed on a stone pedestal. NL ——'It's the time now. Bid farewell to me with some affections, will you?'  NL ——'I only wish for the futility of such farewells. I shall be waiting to welcome your safe return.'",
+      "The memory weighs in with determination. Your face registers a smile in relief, your blade echoes to the pulse of your melted heart.",
+      "The memory kindles strength within you. The necklace sprawls on the pedestal, its owner and her name blazes reminiscently in your memory.",
+      "——'Unless I meet my mortality sooner than you.'  NL NL No, she can not have heard you whispering that one. You smile in relief, lay a necklace by the pedestal out of your sigil, and proceed again."
+    ],
+    "OPTIONS": [
+      "[I am Resolved] #gObtain Ruby Key.",
+      "[I am Empowered] #gObatin Sapphire Rose Necklace.",
+      "[Piece Together] #gIntegrate the shards of memory, gain 30 Sanity.",
+      "[Leave]"
+    ]
+  },
+  "VUPShionMod:MentalBreakdown": {
+    "NAME": "Mental Breakdown",
+    "DESCRIPTIONS": [
+      "\"Bang...bang...bang...\" NL Under a tall, looming dome that seems to hem you in, a sudden bump develops and shoots through your mind, and it is growing to full stretch to your groan... NL Frost starts to permeate the chest as your find its implication of an awakening existence... she who was rejected and frozen long ago.",
+      "You acquiesce in her attempt to wake up...  NL Soberness follows a trance. The bump is gone, nothing is agitating any longer, and memories are dead. NL \"Why...bother...to reject...her? And...who am...I?\" NL \"You are the abyss, my precious container.\" NL The strings of sanity snap to her gentle voice.",
+      "You destroy your sigil to stop her advent... NL \"No, no way...Shut up! You!\" NL Your mind is boiling, almost vaporized by the relentless whispering instigations...But those are not enough to force you out of her way. NL You raise you sword, point the tip against your chest...",
+      "You suppress her awakening... NL \"————\" NL In the vortex of spiritual unrest, you murmur, you whisper prayer, you bear the anguish. NL All of a sudden, a shaft of light filters through, the chaos and agitation is cleansed at touch... NL She is asleep again, so that you may stagger on with your weak body."
+    ],
+    "OPTIONS": [
+      "[Acquiesce] #rLose all Sanity. #gObtain Abyssal Crux.",
+      "[Destroy the Sigil] #rRemove all Prayer cards. #gObtain Calamity.",
+      "[Suppress] #rRemove a random power card, lose 20 Max HP. #gGain 50 Sanity.",
+      "[Leave]"
+    ]
+  },
+  "VUPShionMod:DistantMemory": {
+    "NAME": "Distant Memory",
+    "DESCRIPTIONS": [
+      "A fragment of memory emerges from the bottom... NL ——\"Apart from other modifications, you now have this, in case you lose control again.\" Shion said as she pointed the ring-shaped...object around your ankle. NL ——\"Inhibitor Prototype 03, my own creation, and the name, too. It can help you to chill out should any abnormal fluctuation of your emotion is detected...Or more likely, it compels...?\" NL ——\"Sounds great. But why anklets?\" NL ——\"Well...a part of my...sick interest?\"Shion laughed. \"It is sick.\" You murmured, eyes averted to the empty hall \"You fool...You don't need to do this to keep me at your side.\"",
+      "You drop your head, soothed by the aureole dancing on your ankle, and the light emenating from it.",
+      "You stretch out your hand, but the aureole is giving nothing. \"Just now, please...something to keep me going...\""
+    ],
+    "OPTIONS": [
+      "[Activate Program] #gObtain Inhibitor Prototype 03.",
+      "[Modify Program] #gReplace starter relic as Hallowed Case.",
+      "[Leave]"
+    ]
+  },
+  "VUPShionMod:VacuumRipples": {
+    "NAME": "Ripples of Vacuum",
+    "DESCRIPTIONS": [
+      "The magia circulates, the vacuum ripples, you can sense that sea of energy on the other side of the timeline...",
+      "Infinite...power.",
+      "An enormous flow of magia baptizes your body..."
+    ],
+    "OPTIONS": [
+      "[Commune] #gObtain Anima Virtutis.",
+      "[Strengthen] #gGain 20 Max HP.",
+      "[Locked] At least 3 Magiam Obruor cards are required.",
+      "[Leave]"
+    ]
+  },
+  "VUPShionMod:FruitStall": {
+    "NAME": "Fruit Stall?",
+    "DESCRIPTIONS": [
+      "You walk in the city street and see everything in a dim vision... NL Just as you pace forward, a shop completely out of proportion to the environment emerges in the view ahead... NL You're curious about what other stores would sell besides that suspicious merchent in blue. NL \"Welcome!\" Says a maid who seems to be the owner.",
+      "\"There are all kinds of fruits that can't be seen in the Spire, but the sales are so good, now there are only some leftovers...I can manage to rig up some fruit juice if you'd like? \" NL At this time, you can see that there is an attractive #y~Fruit~ #y~Cake~ hidden under the shelf. NL It seems that the maid is not telling hte truth, or the cake is just another Not-For-Sale? Anyway, the sweet smell it gives off is too tempting...",
+      "What should you do?",
+      " #y@Delicious!@ NL When you take your time to feel proud of your skills at stealing, you suddenly feel something terrible behind you. As you turn around...",
+      "\"Thank you for your patronage. You are always welcomed here.\"",
+      "\"Really? That would be bravo! Do you have #ystrawberries or any #yother #yfruits? \"",
+      "\"Ah! It's my favorite strawberry.\" She seems exceedingly happy.",
+      "\"Thank you very much!\"",
+      "\"Caution is the mother of safety.\"",
+      "\"Welcome to you next time!\""
+    ],
+    "OPTIONS": [
+      "[Approach]",
+      "[Ignore]",
+      "[Continue]",
+      "[Steal the Cake] #rEncounter #ra #rSpecial #rCombat. Various rewards may be #gObtained.",
+      "[Drink for the Thirsty!] #rLose #r%d #rgold. #gGain #g%d #gMax #gHP.",
+      "[Locked] No less than %d gold is required.",
+      "[Sell] Sell your fruit to the maid.",
+      "[Locked] Any fruit relic is required.",
+      "[Leave]",
+      "[%s] Gain #b%d gold.",
+      "[Back]",
+      "[Fight] is a Maid - Easy",
+      "[Fight] is a Red Shadow - Normal",
+      "[Fight] is a Red Shadow with Glow - Challenger",
+      "[Locked] Require encounter in Act.3",
+      "[Locked] Require Training Mode"
+    ]
+  },
+  "VUPShionMod:HolyJudgement": {
+    "NAME": "Judgement",
+    "DESCRIPTIONS": [
+      "\"May the gods have mercy on your villiany.\" NL You see her figure, piously bent forth, and the two bandits in the front, brandishing flickering daggers. NL The tip easily submerges into her arm, blood starts to escape its flesh-made prison, but still, she does not bat an eyelid, and repeats \"May the gods have mercy on your villiany.\" NL She draws her blade... NL And the vision disappears.",
+      "It is a remnant of the memories in the Spire, but this time, you are determined to change what happens next...",
+      "It is a remnant of the memories in the Spire, but with it you find clearer connections between you and her."
+    ],
+    "OPTIONS": [
+      "[Press Ahead] #gObtain Sapphire Key.",
+      "[Touch the Figure] #gObtain Crucifixion.",
+      "[Leave]"
+    ]
+  },
+  "VUPShionMod:SpiritSinkingRampage": {
+    "NAME": "Psychic Rampage",
+    "DESCRIPTIONS": [
+      "In your path through this...space, the casket starts to shake violently as to open by itself, and a sudden emanation of white light from the gap blinds you... NL When you open your eyes again, you find yourself in this familiar room, and find your deceased families alive and well, standing in your front... NL \"Welcome back! Happy new year!\"\"Come on sister, sit here and listen! You will never guess how hard I tried this time!\" NL Is this another hallucination? But the vision, the smell, everything is so real...",
+      "Your answer quivers as tears trace a path. The dreamlike vision in your eyes is then peeled off by the tears, revealing her body, that mass of bruise and wound abandoned in the ruins of steel and concrete, with her hand griping a shell case. NL The casket closes gently, the sharp and clear sound of a dropped shell case pulls your vision back to the reality.",
+      "You force a smile to praise her, try your best to recall the way you used to pat on her head, and as you take a step forward, the vision of comfort rips apart like paper, only silence and dimness ahead. Her body vanishes into the blood that soaks your eyes, her smile carves a scar into your heart that mocks all the happiness. NL The casket closes gently, in front of your, the blood forms and congeals into a crimson sword.",
+      "Before you could say anything, you hear a gentle voice from your left. NL \"Oh, isn't your sister with you?\" NL You turn your head to the left, only to see the emptiness of this dim corridor, as if it was a dream. NL The casket closes gently, a familiar shield integrates into your chest."
+    ],
+    "OPTIONS": [
+      "[I am Back...] #gObtain Reversed Bullet.",
+      "[I Can't Wait to...] #gObtain Umbra of the Sword.",
+      "[Where is She?!] #gObtain Thetis Shield.",
+      "[Leave]"
+    ]
+  },
+  "VUPShionMod:StrangeSeal": {
+    "NAME": "A Strange Seal",
+    "DESCRIPTIONS": [
+      "You see a seal, little poor cutie entangled in the net that is watched over by two...no, three slave traders. NL It sees you, trying to tap on the belly that would seem to spell help.",
+      "\"What, #r@Neeew@ ↑~Maoooow\" The seal starts to chirp strangly. This draws the attraction of those slave traders towards you there, who do not even recall the norm of keeping low profile. The slave traders come up to surround you, and it is clear that there is going to be a fight.",
+      "\"End of the game! G,G! Well played~ Groh #y@Gruw~! @ Might wannna start a new run!\" NL NL The seal keeps twittering incoherently as to keep their eyes on it while you sneak up on this comical act.",
+      " #r~\"Hahahaahaaahelp, I mean HELP.\"~ NL NL The seal screams loudly to ask for your help, what do you do?",
+      "You successfully rescue this garrulous creature from the net...",
+      "Your attempt to rescue that cherubic little thing ends up being spotted..."
+    ],
+    "OPTIONS": [
+      "[Approach] You come straight up to tap on its belly.",
+      "[Look for an Opportunity] You decide to sneak attack those slave traders.",
+      "[Ignore] You decide to feign blind, and deaf probably.",
+      "[Combat!] Fight the slave traders. #gObtain Squeal and 100 gold.",
+      "[Sneak Attack!] Fight the slave traders. #gObtain Squeal.",
+      "[Run] Maybe not the best day to become a hero.",
+      "[Follow] Follow the slave traders to seek opportunity.",
+      "[Did it!] #gObtain Squeal.",
+      "[Fight!] Fight the slave traders. #gObtain Squeal."
+    ]
+  },
+  "VUPShionMod:ShionSpireHeart": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "CONGRATULATIONS ON PASSING THE PRELIMINARY, SUBJECT #$%/@*_?&. TRY TO MAKE GOOD USE OF THIS INTERVAL.",
+      "YOUR CURRENT MARK IS...#b%d.",
+      "COLLECTING DATA...SCANNING PREREQUISITES FOR ENTERING THE NEXT STAGE...",
+      "PREREQUISITES ARE FULFILLED. COMMENCING LOADING A NEW STAGE...",
+      "PREREQUISITES ARE NOT FULFILLED. EARLY STAGE TRAINING AT A HIGHER INTENSITY WOULD BE SUGGESTED."
+    ],
+    "OPTIONS": [
+      "[Continue]",
+      "[Proceed]",
+      "[Quit Training]"
+    ]
+  },
+  "VUPShionMod:LetItRot": {
+    "NAME": "Let Me Rot in Coziness...",
+    "DESCRIPTIONS": [
+      "Minami has been winging her way all along, carrying a prodigious amount of supplies for a long time, then she stops, and decides on winning herself some respite. NL \"I'm really tired out! This is such a grind!!!\" NL ... NL \"Grind??? Come on Foxy, it's your job! Your are the logistic support, remember? You don't expect me to carry all those all the way? You can pilfer some food in case you are hungry...Just don't let me see.\"",
+      "... NL \"Now I remember, it's a digital world and I don't have a virtual stomach...I can tuck into a good meal without worrying about getting fat, or the bills...Lucky!\"",
+      "... NL \"I'm not that easliy sent away by some food like a random fox, I'm a real Foxy Fairy of sorts!\""
+    ],
+    "OPTIONS": [
+      "[It Smells Good!] #gObatin Infinite Sushi.",
+      "[I'm Just Tired Out...] #gHeal to Max HP.",
+      "[Proceed]"
+    ]
+  },
+  "VUPShionMod:IntelligentFinFunnel": {
+    "NAME": "Intelligent Funnels",
+    "DESCRIPTIONS": [
+      "As you fight more and more battles, the Funnels are seen to cooperate better, work smoother together, and occasionally, may even maneuver themselves in delicate moves...without you ordering them.",
+      "You can sense in your Funnels an awakening intelligence, rudimentary and obscure, but quite promising and it calls for your guidance..."
+    ],
+    "OPTIONS": [
+      "[Gravity Processor] Specialize in supressing enemies with gravitational field. #gObtain Gravity Repression.",
+      "[Tracking Recognizer] Specialize in dissecting target areas. #gObtain Tracking Analysis.",
+      "[Collaborative Linker] Specialize in interfering in enemy defense. #gObtain Auxiliary Scouting.",
+      "[Locked] Minami's Costume is required.",
+      "[Proceed]"
+    ]
+  }
+}

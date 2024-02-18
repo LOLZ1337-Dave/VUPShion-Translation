@@ -1,0 +1,258 @@
+{
+  "VUPShionMod:ShionMinion": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Substitute of Shion",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "VUPShionMod:PlagaAMundo": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Plaga Mundi",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "VUPShionMod:PlagaAMundoMinion": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Plaga Mundi",
+    "DIALOG": [
+      "It is no use to block me with your puppets. Come out, I know you are here."
+    ]
+  },
+  "VUPShionMod:TimePortal": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Time Portal",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "VUPShionMod:Ouroboros": {
+    "MOVES": [
+      "Ouroboros (Defective)",
+      "Annihilating Canon"
+    ],
+    "NAME": "Ouroboros",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "VUPShionMod:ElfMinion": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Lesser Elf",
+    "DIALOG": [
+      "Lesser Elf",
+      "High Elf",
+      "Elf Knight"
+    ]
+  },
+  "VUPShionMod:AquaShionBoss": {
+    "MOVES": [
+      "HACKING IN...",
+      "DISTURBING THE MAGIA FLOW...",
+      "DISABLING ACTION...",
+      "SUPERNOVA OUTBURST!"
+    ],
+    "NAME": "Shion-Midsummer Swimsuit",
+    "DIALOG": [
+      "COMMENCING ANALYZING WEAK SPOT...",
+      "ANALYZE COMPLETED",
+      "FORCE COVERING PROTOCOL...DONE",
+      "MAGIA CIRCUIT DETECTED...COMMENCING DISTURBING...",
+      "ACTION ANTICIPATION COMPLETED...COMMENCING BLOCKING...",
+      "ACCELERATION INITIATING.",
+      "OVERDRIVING DEFENSIVE SYSTEM...",
+      "SYSTEM OV...VVEEERLOAAADED .%&*#@^&"
+    ]
+  },
+  "VUPShionMod:OriLiyezhuBoss": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Liyezhu-Priestess Duty",
+    "DIALOG": [
+      "The judgement...awaits..."
+    ]
+  },
+  "VUPShionMod:OriEisluRenBoss": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "EisluRen-Biyuki Gift",
+    "DIALOG": [
+      "Wings, take a new shape!",
+      "Maximum output!",
+      "Cover me."
+    ]
+  },
+  "VUPShionMod:HighElf": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "High Elf",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "VUPShionMod:ElfKnight": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Elf Knight",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "VUPShionMod:ChinaWangChuanBoss": {
+    "MOVES": [
+      "Mors Universi"
+    ],
+    "NAME": "Wangchuan-Sapor Peregrinus",
+    "DIALOG": [
+      "Nihil est. Immensum.",
+      "Exitus Omnis. Mors Universi."
+    ]
+  },
+  "VUPShionMod:PurityWangChuanBoss": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Wangchuan-Spectre Dance",
+    "DIALOG": [
+      "Watch my move and don't blink!"
+    ]
+  },
+  "VUPShionMod:OriWangChuanBoss": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Wangchuan-Vampire's Shroud",
+    "DIALOG": [
+      "Magia circuit enabled..."
+    ]
+  },
+  "VUPShionMod:OriShionBoss": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Shion-Aggressive Armament",
+    "DIALOG": [
+      "TARGET LOCKED FOR ORBITAL STRIKE",
+      "ORBITAL STRIKE INCOMING..."
+    ]
+  },
+  "VUPShionMod:AquaWangChuanBoss": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Wangchuan-Midsummer Swimsuit",
+    "DIALOG": [
+      "Terre gladios infinitios!"
+    ]
+  },
+  "VUPShionMod:BlueGiantShionBoss": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Shion-Conqueror's Attire",
+    "DIALOG": [
+      "HYPERDIMENSIONAL MATRIX ACTIVATING..."
+    ]
+  },
+  "VUPShionMod:MinamiShionBoss": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Minami-Keeper of Arsenal",
+    "DIALOG": [
+      "Foxy Dash!",
+      "Gravity Funnel Deployed.",
+      "Pursuing Funnel Deployed.",
+      "All Funnels are in position.",
+      "Defense System Booted.",
+      "Inducting all energy into the fire unit.",
+      "ALL-OUT ATTACK!!！",
+      "Off I Puff!"
+    ]
+  },
+  "VUPShionMod:OriKuroisuBoss": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Kuroisu-Wear the Night",
+    "DIALOG": [
+      "rua！",
+      "Anti-Magia Ward...",
+      "Triple Chant!",
+      "Time Fence!",
+      "Suspend!"
+    ]
+  },
+  "VUPShionMod:GodShionBoss": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Shion-Carmen Cantat",
+    "DIALOG": [
+      "圣者谏言……加载",
+      "引导……苍蓝之刃",
+      "闪耀吧……",
+      "最终教条……启动",
+      "Heavenly One, hallowed be Thy name",
+      "Your will be done, here and Above",
+      "All things we have are Thy gifts.",
+      "Grant us absolution for our sins,",
+      "And grant us Thy Power, and Thy blessing.",
+      "Holy Shine... Cross Cut!"
+    ]
+  },
+  "VUPShionMod:MaidRita": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Maid?",
+    "DIALOG": [
+      "~Not~ ~You~"
+    ]
+  },
+  "VUPShionMod:OriRitaBoss": {
+    "MOVES": [
+      "Ruin Impact",
+      "Kaiser Wave",
+      "Wind Swallow",
+      "Haven's Gate",
+      "Destruction Omega",
+      "Raging Demon",
+      "Genocide Cutter"
+    ],
+    "NAME": "Rita Bernstein",
+    "DIALOG": [
+      "~Not~ ~Bad~"
+    ]
+  },
+  "VUPShionMod:OmegaRitaBoss": {
+    "MOVES": [
+      "Ruin Impact",
+      "Kaiser Wave",
+      "Wind Swallow",
+      "Haven's Gate",
+      "Destruction Omega",
+      "Raging Demon",
+      "Genocide Cutter"
+    ],
+    "NAME": "Rita Bernstein",
+    "DIALOG": [
+      "#r@Impossible!!!@"
+    ]
+  }
+}

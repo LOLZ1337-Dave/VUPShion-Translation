@@ -1,0 +1,516 @@
+[
+  {
+    "NAMES": [
+      "quick\u00a0boot"
+    ],
+    "PROPER_NAME": "Quick Boot",
+    "DESCRIPTION": "Will be played without any cost when drawn. Draw a card upon being played."
+  },
+  {
+    "NAMES": [
+      "funnel",
+      "funnels"
+    ],
+    "PROPER_NAME": "Funnel",
+    "DESCRIPTION": "#yFunnels attack at the start of each of your turns. NL For each Energy spent per turn, you may also switch #yFunnel."
+  },
+  {
+    "NAMES": [
+      "total\u00a0sychro"
+    ],
+    "PROPER_NAME": "Total Sychro",
+    "DESCRIPTION": "Sum of the improvements on all your #yFunnels."
+  },
+  {
+    "NAMES": [
+      "task"
+    ],
+    "DESCRIPTION": "You are rewarded upon completing tasks during combat."
+  },
+  {
+    "NAMES": [
+      "pursued"
+    ],
+    "DESCRIPTION": " #yPursuing #yFunnel deals damage to #yPursued enemies at the start of the their turn."
+  },
+  {
+    "NAMES": [
+      "bleeding"
+    ],
+    "DESCRIPTION": "Bleeding creatures take additional damage equal to #yBleeding from Attacks. NL It halves at the end of turn."
+  },
+  {
+    "NAMES": [
+      "hyperlink"
+    ],
+    "PROPER_NAME": "Hyperlink",
+    "DESCRIPTION": "Whenever you end combat with #b10 or more #yHyperlink, #yupgrade a random card."
+  },
+  {
+    "NAMES": [
+      "activate"
+    ],
+    "PROPER_NAME": "Activate",
+    "DESCRIPTION": "Trigger the passive ability of the selected #yFunnel."
+  },
+  {
+    "NAMES": [
+      "shield"
+    ],
+    "DESCRIPTION": "Prevents damage. Does not fade at the end of turn."
+  },
+  {
+    "NAMES": [
+      "cor\u00a0gladii"
+    ],
+    "PROPER_NAME": "Cor Gladii",
+    "DESCRIPTION": "Enhances and powers certain Attacks. "
+  },
+  {
+    "NAMES": [
+      "stiffness"
+    ],
+    "DESCRIPTION": "Upon adding up to 4, end your turn."
+  },
+  {
+    "NAMES": [
+      "magiam\u00a0obruor"
+    ],
+    "PROPER_NAME": "Magiam Obruor",
+    "DESCRIPTION": "Lose [E] next turn."
+  },
+  {
+    "NAMES": [
+      "buffer"
+    ],
+    "DESCRIPTION": "Prevents the next time you would lose HP."
+  },
+  {
+    "NAMES": [
+      "parry"
+    ],
+    "DESCRIPTION": "Prevents the next time you would take damage in this turn."
+  },
+  {
+    "NAMES": [
+      "blur"
+    ],
+    "DESCRIPTION": "#yBlock does not fade at the end of turn."
+  },
+  {
+    "NAMES": [
+      "prayer"
+    ],
+    "DESCRIPTION": "Whenever played while in #yPraying #yStance, trigger its effect at the start of the next several turns."
+  },
+  {
+    "NAMES": [
+      "psychic"
+    ],
+    "DESCRIPTION": "Some cards cost #yPsychic to activate additional effects."
+  },
+  {
+    "NAMES": [
+      "sinful"
+    ],
+    "DESCRIPTION": "Marker that activates some particular effects."
+  },
+  {
+    "NAMES": [
+      "punitive"
+    ],
+    "PROPER_NAME": "Punitive",
+    "DESCRIPTION": "ALL ENTITIES take damage equal to their #ySinful."
+  },
+  {
+    "NAMES": [
+      "judging\u00a0stance"
+    ],
+    "PROPER_NAME": "Judging Stance",
+    "DESCRIPTION": "#yStance. NL When you play an #yAttack, trigger #yPunitive. NL Damage from #yPunitive reduce by #b50% ."
+  },
+  {
+    "NAMES": [
+      "praying\u00a0stance"
+    ],
+    "PROPER_NAME": "Praying Stance",
+    "DESCRIPTION": "#yStance. NL While in this #yStance, deal #b50% less damage. NL Healing is #b50% more effective. NL At the end of your turn,heal #b2 HP."
+  },
+  {
+    "NAMES": [
+      "wordpower\u00a0stance"
+    ],
+    "PROPER_NAME": "Wordpower Stance",
+    "DESCRIPTION": "#yStance. NL Regarded as in both #yJudging #yStance and #yPraying #yStance. NL Can not enter #yJudging #yStance. NL When you play an #yAttack, trigger #yPunitive. NL Gain #b5 max HP at the end of combat. NL Whenever you lose HP,gain #yShield equal to half of that amount. NL #yPunitive will not damage you."
+  },
+  {
+    "NAMES": [
+      "unfold"
+    ],
+    "DESCRIPTION": "Add a card into your hand. NL It costs #b0 this turn."
+  },
+  {
+    "NAMES": [
+      "soul\u00a0wearing"
+    ],
+    "PROPER_NAME": "Soul Wearing",
+    "DESCRIPTION": "If you end your turn with this card in your hand, it is #yExhausted and costs you #b10 Sanity."
+  },
+  {
+    "NAMES": [
+      "rupture"
+    ],
+    "DESCRIPTION": "Upon reaching #b18, add 1 #yExile into your hand."
+  },
+  {
+    "NAMES": [
+      "matrix\u00a0charge"
+    ],
+    "PROPER_NAME": "Matrix Charge",
+    "DESCRIPTION": "Upon reaching #b16, lose #b16 charge and summon #b8 #yAuto #yFunnels to launch an attack and trigger their passive ability."
+  },
+  {
+    "NAMES": [
+      "auto\u00a0funnel"
+    ],
+    "PROPER_NAME": "Auto Funnel",
+    "DESCRIPTION": " #b8 Random replica of your #rNon-Matrix #yFunnels. NL They can't gain #yMatrix #yCharge."
+  },
+  {
+    "NAMES": [
+      "orbital\u00a0strike"
+    ],
+    "PROPER_NAME": "Orbital Strike",
+    "DESCRIPTION": "Deal damage equal to #b10% of its max HP to ALL enemies."
+  },
+  {
+    "NAMES": [
+      "recycle"
+    ],
+    "DESCRIPTION": "For every #b3 #yRecycle you have, NL gain #b1 #yConstruct #yRecharge."
+  },
+  {
+    "NAMES": [
+      "construct\u00a0recharge"
+    ],
+    "PROPER_NAME": "Construct Recharge",
+    "DESCRIPTION": "Each charge blocks #b7 damage. NL You may lose #b7 #yConstruct #yRecharge at most from one single attack."
+  },
+  {
+    "NAMES": [
+      "overburdened"
+    ],
+    "DESCRIPTION": "At the start of the turn, lose half of #yConstruct #yRecharge."
+  },
+  {
+    "NAMES": [
+      "helix\u00a0razor"
+    ],
+    "PROPER_NAME": "Helix Razor",
+    "DESCRIPTION": " #yStance. NL Lose #b3 #yConstruct #yRecharge each turn. NL Deal #b6 damage to ALL enemies and apply #b4 #yBleeding."
+  },
+  {
+    "NAMES": [
+      "myriad\u00a0slicer"
+    ],
+    "PROPER_NAME": "Myriad Slicer",
+    "DESCRIPTION": " #yStance. NL Lose #b3 #yConstruct #yRecharge each turn. NL Whenever you play an #yAttack, you may lose #b1 additional #yConstruct #yRecharge and play the Attack for an additional time."
+  },
+  {
+    "NAMES": [
+      "bloodthirsty\u00a0lotus"
+    ],
+    "PROPER_NAME": "Bloodthirsty Lotus",
+    "DESCRIPTION": " #yStance. NL At the start of your turn, gain [E], #b1 #yStrength and #yDexterity."
+  },
+  {
+    "NAMES": [
+      "ruin\u00a0warden"
+    ],
+    "PROPER_NAME": "Ruin Warden",
+    "DESCRIPTION": " #yStance. NL Gain #b1 #yConstruct #yRecharge each turn. NL When you enter this #yStance, #yExhaust up to #b1 #ySkill. NL At the start of your turn, play 1 copy of each #ySkill that was then exhausted."
+  },
+  {
+    "NAMES": [
+      "bright\u00a0armor"
+    ],
+    "DESCRIPTION": " #yStance. NL Lose #b2 #yConstruct #yRecharge each turn. NL When you enter this #yStance, #yExhaust up to #b2 #yAttacks. NL At the start of your turn, play 1 copy of each Attack that was then exhausted. NL You take #b30% less damage from enemy attacks."
+  },
+  {
+    "NAMES": [
+      "wings\u00a0of\u00a0daedalus"
+    ],
+    "PROPER_NAME": "Wings of Daedalus",
+    "DESCRIPTION": "Whenever you gain #yDexterity or #ytemporary #yDexterity , gain #b2 times of that much #yStrength or #ytemporary #yStrength."
+  },
+  {
+    "NAMES": [
+      "vegetated"
+    ],
+    "DESCRIPTION": "At the start of your turn, gain Shield equal to half of #yConstricted that you have applied this combat. NL Apply #b1 #yConstricted to ALL enemies for #b3 times."
+  },
+  {
+    "NAMES": [
+      "spiritual\u00a0corridor"
+    ],
+    "PROPER_NAME": "Spiritual Corridor",
+    "DESCRIPTION": "Damage dealt by the #yElf increases as your #yStrength increases. NL Heal #b1 HP to the #yElf while its HP reaches 0. NL It no longer takes any damage while its HP remains 0."
+  },
+  {
+    "NAMES": [
+      "worldtree\u00a0channel"
+    ],
+    "PROPER_NAME": "Worldtree Channel",
+    "DESCRIPTION": "At the start of your turn, draw cards until your hand is full. NL Increase your hand size by #b1."
+  },
+  {
+    "NAMES": [
+      "lesser\u00a0elf"
+    ],
+    "PROPER_NAME": "Lesser Elf",
+    "DESCRIPTION": " #yMinion. NL #rHP:8. NL Each turn, it deals #b5 damage to a random enemy and grants you #b1 #yRecycle."
+  },
+  {
+    "NAMES": [
+      "high\u00a0elf"
+    ],
+    "PROPER_NAME": "High Elf",
+    "DESCRIPTION": " #yMinion. NL Each turn, it deals #b10 damage to a random enemy and grants you #b2 #yRecycle."
+  },
+  {
+    "NAMES": [
+      "elf\u00a0knight"
+    ],
+    "PROPER_NAME": "Elf Knight",
+    "DESCRIPTION": " #yMinion. NL Each turn, it deals #b20 damage to a random enemy and grants you #b2 #yRecycle."
+  },
+  {
+    "NAMES": [
+      "echo"
+    ],
+    "DESCRIPTION": "Whenever you lose Energy, gain #b1 #yRecycle."
+  },
+  {
+    "NAMES": [
+      "actuated"
+    ],
+    "DESCRIPTION": "In a few turns, you do not lose any #yConstruct #yRecharge."
+  },
+  {
+    "NAMES": [
+      "constricted"
+    ],
+    "DESCRIPTION": "Creatures with #yConstricted take damage that much at the end of turn."
+  },
+  {
+    "NAMES": [
+      "gravity\u00a0amplifier"
+    ],
+    "PROPER_NAME": "Gravity Amplifier",
+    "DESCRIPTION": "For every #b5 #yConstruct #yRecharge you gain, gain #b1 #yStrength and #yDexterity."
+  },
+  {
+    "NAMES": [
+      "synchrochannel"
+    ],
+    "PROPER_NAME": "Synchrochannel",
+    "DESCRIPTION": "While the #yElf's HP is above 0, you gain #b4 #yStrength at the start of your turn."
+  },
+  {
+    "NAMES": [
+      "rampart"
+    ],
+    "PROPER_NAME": "Rampart",
+    "DESCRIPTION": "Damage taken from enemy attacks is decreased by 50%. This effect does not become more effective even if applied more than once."
+  },
+  {
+    "NAMES": [
+      "return"
+    ],
+    "PROPER_NAME": "Return",
+    "DESCRIPTION": "Return to your hand after being played. This turn, the effect is not applied to any other same cards that you play afterwards."
+  },
+  {
+    "NAMES": [
+      "troy"
+    ],
+    "PROPER_NAME": "Troy",
+    "DESCRIPTION": "Whenever you lose or gain #yConstruct #yRecharge, gain #yShield equal to #b5 times of that amount."
+  },
+  {
+    "NAMES": [
+      "promise"
+    ],
+    "PROPER_NAME": "Promise",
+    "DESCRIPTION": "Until the start of your next turn, your HP will not drop below #b1. NL Heal HP equal to #b10% of your max HP when this effect wears out."
+  },
+  {
+    "NAMES": [
+      "stonehenge"
+    ],
+    "PROPER_NAME": "Stonehenge",
+    "DESCRIPTION": "When you play: NL #rAttack: Gain #b1 #yRecycle. NL #gSkill: Gain #b7 #yShield. NL #bPower: Gain [E]."
+  },
+  {
+    "NAMES": [
+      "sub\u00a0luna"
+    ],
+    "PROPER_NAME": "Sub Luna",
+    "DESCRIPTION": "This turn, you do not lose ##yCor #yGladii."
+  },
+  {
+    "NAMES": [
+      "nihil"
+    ],
+    "PROPER_NAME": "Nihil",
+    "DESCRIPTION": "Any damage taken is reduced to #b0 this turn. This power does not last longer even if gained more than once."
+  },
+  {
+    "NAMES": [
+      "intensa"
+    ],
+    "PROPER_NAME": "Intensa",
+    "DESCRIPTION": "At the start of your next turn, regain #b50% #yCor #yGladii that you have lost in this turn. NL #b100% of #yCor #yGladii may be regained in this way at most."
+  },
+  {
+    "NAMES": [
+      "resonance"
+    ],
+    "DESCRIPTION": "Whenever you play #yInterwoven #yLives or #ySychrochannel, reduce the cost of this card by #b1."
+  },
+  {
+    "NAMES": [
+      "impact\u00a0absorption"
+    ],
+    "DESCRIPTION": "This turn, increase the amount of damage that can be blocked by each #yConstruct #yRecharge."
+  },
+  {
+    "NAMES": [
+      "cover"
+    ],
+    "DESCRIPTION": "This turn, your #yally does not take any damage."
+  },
+  {
+    "NAMES": [
+      "collaborative"
+    ],
+    "DESCRIPTION": "Enables your #yally to perform an action."
+  },
+  {
+    "NAMES": [
+      "sinful\u00a0mark"
+    ],
+    "DESCRIPTION": "Creatures with #ySinful #yMark gain 1 additional #ySinful whenever they gain it."
+  },
+  {
+    "NAMES": [
+      "exempted"
+    ],
+    "DESCRIPTION": "Whenever you take damage from #yPunitive this turn, heal HP equal to #b120% of that damage. NL Upon entering #yWordpower #yStance, convert this status into #yDivine #yJudgement."
+  },
+  {
+    "NAMES": [
+      "divine\u00a0judgment"
+    ],
+    "DESCRIPTION": "This turn, #yPunitive deals #b100% more damage."
+  },
+  {
+    "NAMES": [
+      "divine\u00a0will"
+    ],
+    "DESCRIPTION": "Enemies with #yDivine #yWill attack themselves this turn."
+  },
+  {
+    "NAMES": [
+      "pre\u00a0execution"
+    ],
+    "DESCRIPTION": "This turn, you gain #b25% more #yCor #yGladii."
+  },
+  {
+    "NAMES": [
+      "clarity"
+    ],
+    "DESCRIPTION": "Whenever you gain #yCor #Gladii this turn, gain #b25% equal #yBlock."
+  },
+  {
+    "NAMES": [
+      "ease"
+    ],
+    "DESCRIPTION": "Your turn is not ended until you gain #b%d more #yStiffness above the threshold of 4."
+  },
+  {
+    "NAMES": [
+      "inhibition"
+    ],
+    "DESCRIPTION": "At the end of turn, gain #b1 #yStrength and heal #b5% Max HP and lose this effect. NL This effect is removed if received #b10 or more #yunblocked damage this turn."
+  },
+  {
+    "NAMES": [
+      "signum\u00a0ruinae"
+    ],
+    "PROPER_NAME": "Signum Ruinae",
+    "DESCRIPTION": "The damage that the entity would take is postponed to the end of turn and is increased by #b10%. NL This effect can not be stacked beyond #b9."
+  },
+  {
+    "NAMES": [
+      "signum\u00a0gratiae"
+    ],
+    "PROPER_NAME": "Signum Gratiae",
+    "DESCRIPTION": "The damage that the entity would take is postponed to the end of turn and is decreased by #b5%. NL This effect can not be stacked beyond #b9."
+  },
+  {
+    "NAMES": [
+      "tho'om"
+    ],
+    "DESCRIPTION": "This card is affected by certain effects."
+  },
+  {
+    "NAMES": [
+      "fusion"
+    ],
+    "DESCRIPTION": "#yTho'om cards cost #b1 more and deal #b80% more damage. NL This effect can be stacked #b3 times and add 1 #yTime #yRift into your hand when it does. NL Whenever you gain #yCooldown, lose this effect."
+  },
+  {
+    "NAMES": [
+      "cooldown"
+    ],
+    "DESCRIPTION": "#yTho'om cards cost 0 and deal #b50% less damage. NL Whenever you gain #yFusion, lose this effect."
+  },
+  {
+    "NAMES": [
+      "absolute\u00a0zero"
+    ],
+    "DESCRIPTION": "Whenever you play a #yTho'om card, gain [E], draw a card and lose this effect by 1. NL This effect can not be stacked beyond #b3."
+  },
+  {
+    "NAMES": [
+      "electrocute"
+    ],
+    "DESCRIPTION": "At the end of turn, receive damage #b2 times of this effect and lose this effect by #b1. NL Stacks lost do not reduce the damage would deal."
+  },
+  {
+    "NAMES": [
+      "singularity"
+    ],
+    "DESCRIPTION": "Whenever you #yexhaust any other cards, increase effects of all #ySingularity cards by the cost of exhausted cards. NL Exhausting Status and Curse cards increases effects by 1."
+  },
+  {
+    "NAMES": [
+      "ruffled\u00a0scales"
+    ],
+    "PROPER_NAME": "Ruffled Scales",
+    "DESCRIPTION": "Blocks damage. Does not #yfade at the end of turn. NL Whenever broken, gain #b1 #yProposition."
+  },
+  {
+    "NAMES": [
+      "proposition"
+    ],
+    "DESCRIPTION": "For every #b2 Propositions you gain, add 1 #yParadox into your hand."
+  },
+  {
+    "NAMES": [
+      "recursive"
+    ],
+    "DESCRIPTION": "This card is returned from exhausted pile into your hand after #b3 turns."
+  }
+]

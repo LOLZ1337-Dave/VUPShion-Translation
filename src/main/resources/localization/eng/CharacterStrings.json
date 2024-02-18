@@ -1,0 +1,65 @@
+{
+  "VUPShionMod:Shion": {
+    "NAMES": [
+      "Shion",
+      "Shion"
+    ],
+    "TEXT": [
+      "Hailing from Anastasia Universe, Shion fights using her Funnels. NL By synchronizing with her latent capability, she intends to slay the Spire."
+    ]
+  },
+  "VUPShionMod:WangChuan": {
+    "NAMES": [
+      "Wangchuan",
+      "Wangchuan"
+    ],
+    "TEXT": [
+      "Girl of vampire descent from another sphere, NL here to investigate this towering remain of a broken world."
+    ]
+  },
+  "VUPShionMod:Liyezhu": {
+    "NAMES": [
+      "Liyezhu",
+      "Liyezhu"
+    ],
+    "TEXT": [
+      "Former priestess and supporter of Shion, NL summoned by the Spire and decides to inspect further."
+    ]
+  },
+  "VUPShionMod:EisluRen": {
+    "NAMES": [
+      "Eislu Ren",
+      "Eislu Ren"
+    ],
+    "TEXT": [
+      "An Elven priest rescued from the combat against Ouroboros. NL She conducts battle simulation training to improve her power of proficiency in earth and wood magic."
+    ]
+  },
+  "VUPShionMod:Kuroisu": {
+    "NAMES": [
+      "Kuroisu",
+      "Kuroisu"
+    ],
+    "TEXT": [
+      "As the one with dragon blood pumping through veins, NL she plys time and reality with her inbred mastery over Tho'om magic."
+    ]
+  },
+  "VUPShionMod:StarryQueen": {
+    "NAMES": [
+      "Starry Queen",
+      "Starry Queen"
+    ],
+    "TEXT": [
+      "The eternal eulogizer, also the keeper of Templum Astrorum, strolling among the vastness of the starry space."
+    ]
+  },
+  "VUPShionMod:Rita": {
+    "NAMES": [
+      "Rita",
+      "Rita"
+    ],
+    "TEXT": [
+      ""
+    ]
+  }
+}

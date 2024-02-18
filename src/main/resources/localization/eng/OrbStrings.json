@@ -1,0 +1,168 @@
+{
+  "VUPShionMod:InvestigationFinFunnel": {
+    "NAME": "Scouting Funnel",
+    "DESCRIPTION": [
+      "Current Sychronization: #b%d. NL At the start of each turn, deal #b%d damage to a random enemy and trigger its passive ability. NL #yPassive: Apply #b%d #yBleeding. NL The passive effect augments for every 3 improvements in sychronization.",
+      "Current Sychronization: #g%d / #b%d. NL At the start of each turn, deal #b%d damage to a random enemy and trigger its passive ability. NL #yPassive: Apply #b%d #yBleeding. NL PThe passive effect augments for every 3 improvements in sychronization.",
+      "Minami %s",
+      "Lose [E] at start of your turn. NL "
+    ]
+  },
+  "VUPShionMod:GravityFinFunnel": {
+    "NAME": "Gravity Funnel",
+    "DESCRIPTION": [
+      "Current Sychronization: #b%d. NL At the start of each turn, deal #b%d damage to a random enemy and trigger its passive ability. NL #yPassive: Gain #b%d #yBlock. NL The passive effect augments for every 3 improvements in sychronization.",
+      "Current Sychronization: #g%d / #b%d. NL At the start of each turn, deal #b%d damage to a random enemy and trigger its passive ability. NL #yPassive: Gain #b%d #yBlock. NL The passive effect augments for every 3 improvements in sychronization.",
+      "Minami %s",
+      "Lose [E] at start of your turn. NL "
+    ]
+  },
+  "VUPShionMod:PursuitFinFunnel": {
+    "NAME": "Pursuing Funnel",
+    "DESCRIPTION": [
+      "Current Sychronization: #b%d. NL At the start of each turn, deal #b%d Damage to a random enemy and trigger its passive ability. NL #yPassive: Apply #b%d #yPursued. NL The passive effect augments for every 3 improvements in sychronization.",
+      "Current Sychronization: #g%d / #b%d. NL At the start of each turn, deal #b%d Damage to a random enemy and trigger its passive ability. NL #yPassive: Apply #b%d #yPursued. NL The passive effect augments for every 3 improvements in sychronization.",
+      "Minami %s",
+      "Lose [E] at start of your turn. NL "
+    ]
+  },
+  "VUPShionMod:DissectingFinFunnel": {
+    "NAME": "Dissecting Funnel",
+    "DESCRIPTION": [
+      "Current Sychronization： #b%d. NL At the start of each combat, gain the Current Sychronization of #yReinsOfWar . NL At the start of each turn, deal #b%d Damage to a random enemy and trigger its passive ability. NL #yPassive: Apply #b%d #yStructureDissection. NL The passive effect augments for every 3 improvements in sychronization. ",
+      "Current Sychronization： #g%d / #b%d. NL At the start of each combat, gain the Current Sychronization of #yReinsOfWar . NL At the start of each turn, deal #b%d Damage to a random enemy and trigger its passive ability. NL #yPassive: Apply #b%d #yStructureDissection. NL The passive effect augments for every 3 improvements in sychronization. ",
+      "Minami %s",
+      "Lose [E] at start of your turn. NL "
+    ]
+  },
+  "VUPShionMod:MatrixFinFunnel": {
+    "NAME": "Matrix Funnel",
+    "DESCRIPTION": [
+      "Current Sychronization： #b%d . NL At the start of each turn, deal #b%d Damage to a random enemy and trigger its passive ability. NL #yPassive: Gain #b%d #yMatrix #yCharge . NL Max passive #b8 . NL The passive effect augments for every 3 improvements in sychronization.",
+      "Current Sychronization： #g%d / #b%d . At the start of each turn, deal #b%d Damage to a random enemy and trigger its passive ability. NL #yPassive: Gain #b%d #yMatrix #yCharge . NL Max passive #b8 . NL The passive effect augments for every 3 improvements in sychronization.",
+      "Minami %s",
+      "Lose [E] at start of your turn. NL "
+    ]
+  },
+  "VUPShionMod:GodFinFunnel": {
+    "NAME": "Nebula-Funnel System",
+    "DESCRIPTION": [
+      "Considered as both #yGravity , #yPursuing and #yDissecting #yFunnel. NL NL At the start of each turn, deal #b%d Damage to a random enemy and trigger its passive ability. NL #yPassive:",
+      ",",
+      ".",
+      " NL Gain #b%d #yBlock ",
+      " NL Gain #b%d #yShield ",
+      " NL Gain #b%d #yMatrix #yCharge ",
+      " NL Apply #b%d #yBleeding ",
+      " NL Apply #b%d #yPursued ",
+      " NL Gain #b%d #yHyperdimensionalLink ",
+      " NL Apply #b%d #yStructure #yDissection ",
+      " NL Apply #b%d #yWeak ",
+      " NL Apply #b%d #yVulnerable "
+    ]
+  },
+  "VUPShionMod:AbstractTurnIcon": {
+    "DESCRIPTION": [
+      "Trigger Prayer effect at the start of next #b%d turn:",
+      "Trigger Prayer effect at the start of next #b%d turns:"
+    ],
+    "NAME": "Prayer"
+  },
+  "VUPShionMod:RegenPrayer": {
+    "DESCRIPTION": [
+      "Gain #b%d #yRegen ."
+    ],
+    "NAME": "Regen"
+  },
+  "VUPShionMod:LoseStrengthPrayer": {
+    "DESCRIPTION": [
+      "All enemies lose #b%d #yStrength."
+    ],
+    "NAME": "Shackled"
+  },
+  "VUPShionMod:ArtifactPrayer": {
+    "DESCRIPTION": [
+      "Gain #b%d #yArtifact."
+    ],
+    "NAME": "Artifact"
+  },
+  "VUPShionMod:StrengthPrayer": {
+    "DESCRIPTION": [
+      "Gain #b%d #yStrength."
+    ],
+    "NAME": "Strength"
+  },
+  "VUPShionMod:MiraclePrayer": {
+    "DESCRIPTION": [
+      "Add #b%d #yMiracle to your hand."
+    ],
+    "NAME": "Miracle"
+  },
+  "VUPShionMod:MiracleUpgradePrayer": {
+    "DESCRIPTION": [
+      "Add #b%d #yMiracle+ to your hand."
+    ],
+    "NAME": "Miracle+"
+  },
+  "VUPShionMod:ThornsPrayer": {
+    "DESCRIPTION": [
+      "Gain #b%d #yThorns."
+    ],
+    "NAME": "Thorns"
+  },
+  "VUPShionMod:VampirePrayer": {
+    "DESCRIPTION": [
+      "Deal #b%d damage to All enemies.Heal HP equal to unblocked damage."
+    ],
+    "NAME": "Reaper"
+  },
+  "VUPShionMod:SelfSinPrayer": {
+    "DESCRIPTION": [
+      "Gain #b%d #ySin."
+    ],
+    "NAME": "Self-accusation"
+  },
+  "VUPShionMod:LoseHPPrayer": {
+    "DESCRIPTION": [
+      " #yALL #yENTITIES lose #b%d HP."
+    ],
+    "NAME": "Lose HP"
+  },
+  "VUPShionMod:AvariciousPrayer": {
+    "DESCRIPTION": [
+      "Draw #b%d card and gain #b%d [E].",
+      "Draw #b%d cards and gain #b%d [E]."
+    ],
+    "NAME": "Avarice"
+  },
+  "VUPShionMod:SinPrayer": {
+    "DESCRIPTION": [
+      "ALL enemies gain #b%d #ySin."
+    ],
+    "NAME": "Sin"
+  },
+  "VUPShionMod:ThieveryPrayer": {
+    "DESCRIPTION": [
+      "Gain Gold equals #b%d times of number of enemies."
+    ],
+    "NAME": "Thievery"
+  },
+  "VUPShionMod:HealPrayer": {
+    "DESCRIPTION": [
+      "Heal #b%d HP."
+    ],
+    "NAME": "Heal"
+  },
+  "VUPShionMod:SanguinaryPreceptPrayer": {
+    "DESCRIPTION": [
+      "Lose #b%d *Sanity . NL ALL enemies lose HP equal to #b10%% of its max HP."
+    ],
+    "NAME": "Sanguinary Precept"
+  },
+  "VUPShionMod:SanPrayer": {
+    "DESCRIPTION": [
+      "Gain #b%d #ySanity."
+    ],
+    "NAME": "Hope"
+  }
+}

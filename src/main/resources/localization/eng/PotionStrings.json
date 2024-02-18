@@ -1,0 +1,115 @@
+{
+  "VUPShionMod:PlanedModify": {
+    "NAME": "Planed Modification",
+    "DESCRIPTIONS": [
+      "Upgrade current #yFunnel by #b%d. NL Gain #b%d #ySpare #ySkill #yPoint",
+      "Upgrade current #yFunnel by #b%d. NL Gain #b%d #ySpare #ySkill #yPoints"
+    ]
+  },
+  "VUPShionMod:CorGladiiFragment": {
+    "NAME": "Fragment of Steel",
+    "DESCRIPTIONS": [
+      "Choose to #yUpgrade #b%d #yAttacks in your deck."
+    ]
+  },
+  "VUPShionMod:WordFragment": {
+    "NAME": "Fragment of Prayer",
+    "DESCRIPTIONS": [
+      "Choose to #yUpgrade #b%d #yPrayer cards in your deck."
+    ]
+  },
+  "VUPShionMod:EnergeticFragment": {
+    "NAME": "Fragment of Energy",
+    "DESCRIPTIONS": [
+      "Gain #b%d #yConstruct #yRecharge."
+    ]
+  },
+  "VUPShionMod:TimeFragment": {
+    "NAME": "Fragment of Time",
+    "DESCRIPTIONS": [
+      "Enter an additional turn after this turn. NL End your turn."
+    ]
+  },
+  "VUPShionMod:FlashBang": {
+    "NAME": "Flash Bang",
+    "DESCRIPTIONS": [
+      " #yStun ALL enemies.",
+      " #yStun ALL enemies for %d turns."
+    ]
+  },
+  "VUPShionMod:MinamiDepository": {
+    "NAME": "Minami's Inventory",
+    "DESCRIPTIONS": [
+      "Gain #b%d potion slots. NL Obtain #b%d random potions.",
+      "Gain #b%d potion slots. NL Obtain #b%d random potions."
+    ]
+  },
+  "VUPShionMod:MinamiHand": {
+    "NAME": "Minami's Final Card",
+    "DESCRIPTIONS": [
+      "Choose a #yPower from the Power Pool. NL Add #b%d copies of the chosen card into your hand.",
+      "Choose a #yPower from the Power Pool. NL Add #b%d copies of the chosen card into your hand."
+    ]
+  },
+  "VUPShionMod:MinamiReserve": {
+    "NAME": "Minami's Reserve",
+    "DESCRIPTIONS": [
+      "Obtain #b%d random Skills. NL They cost #b0 this combat and #yExhaust."
+    ]
+  },
+  "VUPShionMod:ShoppingVoucher": {
+    "NAME": "Voucher",
+    "DESCRIPTIONS": [
+      "The next time you would buy anything in the shop is for free. NL When you do, this potion is discarded."
+    ]
+  },
+  "VUPShionMod:WorldLeaf": {
+    "NAME": "Worldtree Leaf",
+    "DESCRIPTIONS": [
+      "Heal HP to #b%d%% of Max HP."
+    ]
+  },
+  "VUPShionMod:Bento": {
+    "NAME": "Lunchbox",
+    "DESCRIPTIONS": [
+      "Heal #b%d HP. NL Obtain #b%d potions.",
+      "Heal #b%d HP. NL Obtain #b%d potions."
+    ]
+  },
+  "VUPShionMod:HolyWater": {
+    "NAME": "Holy Water",
+    "DESCRIPTIONS": [
+      "Remove #yALL Curses. NL Heal #b%d HP."
+    ]
+  },
+  "VUPShionMod:Claymore": {
+    "NAME": "Claymore Mine",
+    "DESCRIPTIONS": [
+      "The next time you receive attack damage, deal #b%d damage back."
+    ]
+  },
+  "VUPShionMod:MagiaMagazine": {
+    "NAME": "Magia Magazine",
+    "DESCRIPTIONS": [
+      "Gain #b%d [E] . Draw #b%d cards."
+    ]
+  },
+  "VUPShionMod:Cola": {
+    "NAME": "Cola",
+    "DESCRIPTIONS": [
+      "Gain #b%d #yStrength , #yDexterity and [E] ."
+    ]
+  },
+  "VUPShionMod:UAV": {
+    "NAME": "UAV",
+    "DESCRIPTIONS": [
+      "Apply #b%d #yWeak and #yVulnerable to ALL enemies."
+    ]
+  },
+  "VUPShionMod:TransitionGenerator": {
+    "NAME": "Transition Generator",
+    "DESCRIPTIONS": [
+      "You may ignore paths to choose the next room to travel to. NL When you do, this potion is discarded."
+    ]
+  }
+}
